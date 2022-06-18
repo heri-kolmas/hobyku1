@@ -12,6 +12,9 @@ http://203.77.246.50:5000/udp/239.1.3.68:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MNC TV FHD
 http://203.77.246.50:5000/udp/239.1.3.78:5000
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inewtv HD
+https://mnctv-cutv.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVONE
 http://203.77.246.50:5000/udp/239.1.2.68:5000
 
@@ -96,8 +99,14 @@ http://203.77.246.50:5000/udp/239.1.2.162:5000
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Premium Channel", Thrill 
 http://rr2.dens.tv/s/s34/01.m3u8
 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Premium Channel", Thrill2 
+http://rr2.dens.tv/s/s34/index.m3u8
+
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premium Channel", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-id="MetalTV.ru" tvg-name="Metal TV (720p) [Not 24/7]" tvg-logo="" group-title="Premium Channel",Metal TV (720p) [Not 24/7]
+https://v2.catcast.tv/content/33816/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",CCM 
 http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
@@ -147,6 +156,9 @@ http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",K Pop Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat (480p)" tvg-logo="" group-title="Premium Channel",Drama Sangat (480p)
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
 #EXTINF:-1 tvg-logo="https://themusicuniverse.com/wp-content/uploads/2013/03/vevotv.jpg" group-title="MUSIC",Pluto TV Vevo Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -174,9 +186,11 @@ https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1194587568_b964000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAWORLD" tvg-logo="" group-title="Premium Channel",CINEMAWORLD
+http://rr1.dens.tv/h/h04/01.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Elshinta TV" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Local Indonesia",Elshinta TV
+http://rr2.dens.tv/s/s10/index10.m3u8
 
 
 
