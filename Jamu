@@ -171,7 +171,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.metin.tv/wp-content/uploads/2022/02/ConTV-Anime-320x180.png" group-title="MOVIES", ConANIME
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 
-
+#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1194587568_b964000_sleng.m3u8
 
 
 
