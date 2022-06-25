@@ -19,10 +19,10 @@ https://mnctv-cutv.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_8000
 http://203.77.246.50:5000/udp/239.1.2.68:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Indosiar
-http://203.77.246.50:5000/udp/239.1.1.110:5000
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SCTV
-http://203.77.246.50:5000/udp/239.1.1.108:5000
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANTV
 http://203.77.246.50:5000/udp/239.1.1.104:5000
@@ -31,16 +31,19 @@ http://203.77.246.50:5000/udp/239.1.1.104:5000
 http://203.77.246.50:5000/udp/239.1.1.106:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans TV
-http://203.77.246.50:5000/udp/239.1.1.100:5000
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans 7
-http://203.77.246.50:5000/udp/239.1.1.102:5000
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Net HD
 http://203.77.246.50:5000/udp/239.1.1.72:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RTV
 http://203.77.246.50:5000/udp/239.1.1.70:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MENTARITV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Metro TV HD
 http://203.77.246.50:5000/udp/239.1.1.66:5000
