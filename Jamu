@@ -4,16 +4,16 @@
 http://203.77.246.50:5000/udp/239.1.2.66:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RCTI FHD
-http://203.77.246.50:5000/udp/239.1.3.80:5000
+http://syarman.xyz/NATIONAL/RCTI.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GTV FHD
-http://203.77.246.50:5000/udp/239.1.3.68:5000
+http://syarman.xyz/NATIONAL/GTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MNC TV FHD
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+http://syarman.xyz/NATIONAL/MNCTV.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inews tv HD
-https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
+http://syarman.xyz/NATIONAL/INEWS.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVONE
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
@@ -40,7 +40,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RTV
-http://203.77.246.50:5000/udp/239.1.1.70:5000
+http://rr1.dens.tv/h/h10/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MENTARITV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
@@ -71,6 +71,9 @@ http://203.77.246.50:5000/udp/239.1.2.136:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KIX
+http://rr1.dens.tv/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO family
 http://203.77.246.50:5000/udp/239.1.3.76:5000
@@ -120,14 +123,26 @@ https://delivery.macan.network/stream/hbo_hits/playlist.m3u8?token=rqvntc0&v=202
 #EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBOSignatureHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature
 https://delivery.macan.network/stream/hbo_signature/playlist.m3u8?token=rqvntc0&v=20200807
 
-#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cinemaxa.png", Cinemax by HBO
-https://delivery.macan.network/stream/cinemax/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="MY CINEMA" My cinema
+http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="THAIPBS" ThaiPBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="MY CINEMA" My cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="MY CINEMA" My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="MY CINEMA" Acna tv
+http://rr.dens.tv/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/imc.jpg", IMC
 https://delivery.macan.network/stream/imc/playlist.m3u8?token=rqvntc0&v=20200807
 
-#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="CinemaWorld.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cinemaworld.png", CinemaWorld
-https://delivery.macan.network/stream/cinemaworld/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="CinemaWorld"  CinemaWorld
+http://rr1.dens.tv/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="BioskopIndonesia.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/bioskopindonesia.png", Bioskop Indonesia
 https://delivery.macan.network/stream/bioskopindonesia/playlist.m3u8?token=rqvntc0&v=20200807
@@ -150,12 +165,6 @@ https://delivery.macan.network/stream/paramount/playlist.m3u8?token=rqvntc0&v=20
 #EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="myfamilychannel.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/myfamilychannel.png", myfamilychannel
 https://delivery.macan.network/stream/myfamilychannel/playlist.m3u8?token=rqvntc0&v=20200807
 
-#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="mycinema.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/mycinema.png", mycinema
-https://delivery.macan.network/stream/mycinema/playlist.m3u8?token=rqvntc0&v=20200807
-
-#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="mycinemaasia.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/mycinemaasia.png", mycinemaasia
-https://delivery.macan.network/stream/mycinemaasia/playlist.m3u8?token=rqvntc0&v=20200807
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",AFN
 http://203.77.246.50:5000/udp/239.1.2.138:5000
 
@@ -174,8 +183,17 @@ https://delivery.macan.network/stream/tvn_movies/playlist.m3u8?token=rqvntc0&v=2
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kbs_world.png", KBS World
 https://delivery.macan.network/stream/kbs_world/playlist.m3u8?token=rqvntc0&v=20200807
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",One tv
+http://rr.dens.tv/h/h143/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",My Kidz
+http://rr.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Gem tv
+http://rr.dens.tv/h/h19/index10.m3u8
+
 #EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kplus.png", K+
-https://delivery.macan.network/stream/kplus/playlist.m3u8?token=rqvntc0&v=20200807
+http://rr.dens.tv/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="WAKUWAKUJAPAN.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/wakuwaku.png", Waku Waku Japan
 https://delivery.macan.network/stream/wakuwaku/playlist.m3u8?token=rqvntc0&v=20200807
@@ -186,17 +204,11 @@ https://delivery.macan.network/stream/id_gem/playlist.m3u8?token=rqvntc0&v=20200
 #EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHKWorldPremium.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/nwp.png", NHK World Premium
 https://delivery.macan.network/stream/nwp/playlist.m3u8?token=rqvntc0&v=20200807
 
-#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kix.png", KIX
-https://delivery.macan.network/stream/kix/playlist.m3u8?token=rqvntc0&v=20200807
-
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXNHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/axn.png", AXN
-https://delivery.macan.network/stream/id_axn/playlist.m3u8?token=rqvntc0&v=20200807
-
-#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/ccm.png", Celestial Classic Movies
-https://delivery.macan.network/stream/ccm/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="AXN" AXN
+http://rr1.dens.tv/h/h141/index.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
-https://delivery.macan.network/stream/cm/playlist.m3u8?token=rqvntc0&v=20200807
+http://rr1.dens.tv/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/star_chinese_movies.png", Star Chinese Movies
 https://delivery.macan.network/stream/id_scm/playlist.m3u8?token=rqvntc0&v=20200807
@@ -213,17 +225,29 @@ https://delivery.macan.network/stream/zeebioskop/playlist.m3u8?token=rqvntc0&v=2
 #EXTINF:-1 tvg-id="AstroBollyone.my" tvg-name="AstroBollyone.my" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/astro_bollyone.png", Astro Bollyone
 https://delivery.macan.network/stream/astro_bollyone/playlist.m3u8?token=rqvntc0&v=20200807
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/aniplus.png", Aniplus
-https://delivery.macan.network/stream/id_aniplus/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus.id" Aniplus
+http://rr1.dens.tv/h/h02/index10.m3u8
 
-#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/animax.png", Animax
-https://delivery.macan.network/stream/id_animax/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Animax"  Animax
+http://rr1.dens.tv/h/h144/index10.m3u8
 
-#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="BlueAntEntertainment.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png", Rock Entertainment
-https://delivery.macan.network/stream/blue_ant_entertainment/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Rock Entertainment" Rock Entertainment
+http://rr1.dens.tv/h/h16/index10.m3u8
 
-#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="BlueAntExtreme.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/blue_ant_extreme.png", Rock Extreme
-https://delivery.macan.network/stream/blue_ant_extreme/playlist.m3u8?token=rqvntc0&v=20200807
+#EXTINF:-1 tvg-id="Rock Extreme"Rock Extreme
+http://rr1.dens.tv/h/h15/index10.m3u8
+
+#EXTINF:-1 tvg-id="RADAR" RADAR TV
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
+
+#EXTINF:-1 tvg-id="KAWANUA" KAWANUA TV
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+
+#EXTINF:-1 tvg-id="TVN" TVN
+http://rr1.dens.tv/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN" TVN Movies
+http://rr1.dens.tv/h/h21/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/warnertv.png", Warner TV
 https://delivery.macan.network/stream/warnertv/playlist.m3u8?token=rqvntc0&v=20200807
@@ -400,7 +424,8 @@ http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 http://rr2.dens.tv/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premium Channel", ZEE Bioskop 
-http://rr2.dens.tv/s/s32/01.m3u8
+#http://rr2.dens.tv/s/s32/01.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/GbUL7p4.png group-title=Desun_Music,Metal TV
 http://v1.catcast.me/content/33816/index.m3u8
