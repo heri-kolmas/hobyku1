@@ -11,19 +11,19 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RCTI
 #http://202.150.161.116:80/RCTI/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+https://mnctv-cutv.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GTV
 #http://syarman.xyz/NATIONAL/GTV.m3u8
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+https://mnctv-cutv.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MNC TV
 #http://syarman.xyz/NATIONAL/MNCTV.m3u8
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+https://mnctv-cutv.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inews tv HD
 #http://syarman.xyz/NATIONAL/INEWS.m3u8
-https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
+https://mnctv-cutv.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVONE
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
@@ -218,7 +218,7 @@ https://delivery.macan.network/stream/nwp/playlist.m3u8?token=rqvntc0&v=20200807
 http://rr1.dens.tv/h/h141/index.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
-http://210.210.155.35/dr9445/h/h14/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h14/02.m3u8
 
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/star_chinese_movies.png", Star Chinese Movies
 https://delivery.macan.network/stream/id_scm/playlist.m3u8?token=rqvntc0&v=20200807
