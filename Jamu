@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVRI HD
-http://203.77.246.50:5000/udp/239.1.2.66:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KUGO STAR
+https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVRI 
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RCTI
 #http://202.150.161.116:80/RCTI/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
@@ -197,7 +200,7 @@ http://rr.dens.tv/h/h191/index.m3u8
 http://rr.dens.tv/h/h19/index10.m3u8
 
 #EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kplus.png", K+
-http://rr.dens.tv/h/h08/index.m3u8
+http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="WAKUWAKUJAPAN.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/wakuwaku.png", Waku Waku Japan
 https://delivery.macan.network/stream/wakuwaku/playlist.m3u8?token=rqvntc0&v=20200807
@@ -212,7 +215,7 @@ https://delivery.macan.network/stream/nwp/playlist.m3u8?token=rqvntc0&v=20200807
 http://rr1.dens.tv/h/h141/index.m3u8
 
 #EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
-http://rr1.dens.tv/h/h14/index.m3u8
+http://210.210.155.35/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/star_chinese_movies.png", Star Chinese Movies
 https://delivery.macan.network/stream/id_scm/playlist.m3u8?token=rqvntc0&v=20200807
@@ -234,6 +237,9 @@ http://rr1.dens.tv/h/h02/index10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANIMAX
 http://rr1.dens.tv/h/h144/index10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SPACETOON
+https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rock Entertainment", Rock Entertainment
 http://rr1.dens.tv/h/h16/index10.m3u8
@@ -474,7 +480,7 @@ http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=8293
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
-https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",KUGO 1
 http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
