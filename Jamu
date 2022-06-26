@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ADI-TV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KUGO STAR
 https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 
