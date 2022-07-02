@@ -440,8 +440,7 @@ http://rr2.dens.tv/s/s32/01.m3u8
 http://v1.catcast.me/content/33816/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",CCM 
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
-#http://rr2.dens.tv/s/s31/index.m3u8
+http://rr2.dens.tv/s/s31/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Pace Sport
 http://203.77.246.50:5000/udp/239.1.2.218:5000
