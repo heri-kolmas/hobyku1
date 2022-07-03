@@ -84,13 +84,13 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 http://rr1.dens.tv/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO family
-http://203.77.246.50:5000/udp/239.1.3.76:5000
+https://nonton.site:8443/live/balubaid2/Erlangga2/26598.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO HITS
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO Signature
-http://203.77.246.50:5000/udp/239.1.3.74:5000
+https://nonton.site:8443/live/balubaid2/Erlangga2/26597.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK JR ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/522.m3u8
