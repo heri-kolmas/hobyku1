@@ -194,24 +194,8 @@ https://delivery.macan.network/stream/imc/playlist.m3u8?token=rqvntc0&v=20200807
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CINEMA WORLD
 http://rr1.dens.tv/h/h04/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",AFN
 http://203.77.246.50:5000/udp/239.1.2.138:5000
-
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/sonyone.png", Sony One
-https://delivery.macan.network/stream/sonyone/playlist.m3u8?token=rqvntc0&v=20200807
-
-#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/arirang.png", Arirang
-https://delivery.macan.network/stream/arirang/playlist.m3u8?token=rqvntc0&v=20200807
-
-#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TVN.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/tvn.png", tvN
-https://delivery.macan.network/stream/id_tvn/playlist.m3u8?token=rqvntc0&v=20200807
-
-#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TVNMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/tvn_movies.png", tvN Movies
-https://delivery.macan.network/stream/tvn_movies/playlist.m3u8?token=rqvntc0&v=20200807
-
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kbs_world.png", KBS World
-https://delivery.macan.network/stream/kbs_world/playlist.m3u8?token=rqvntc0&v=20200807
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",One tv
 http://rr.dens.tv/h/h143/index.m3u8
@@ -225,9 +209,6 @@ http://rr.dens.tv/h/h19/index10.m3u8
 
 #EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kplus.png", K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="WAKUWAKUJAPAN.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/wakuwaku.png", Waku Waku Japan
-https://delivery.macan.network/stream/wakuwaku/playlist.m3u8?token=rqvntc0&v=20200807
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",AXN
 http://rr1.dens.tv/h/h141/index.m3u8
