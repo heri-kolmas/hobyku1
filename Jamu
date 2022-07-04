@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",INDOSIEUR
+http://iptv12k.com:35461/live/test167/12345/595.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ADI-TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
@@ -80,21 +83,44 @@ http://203.77.246.50:5000/udp/239.1.2.136:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO OKS
+http://iptv12k.com:35461/live/test167/12345/599.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO family
 https://nonton.site:8443/live/balubaid2/Erlangga2/26598.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO family OK
+http://iptv12k.com:35461/live/test167/12345/597.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO HITS
 http://203.77.246.50:5000/udp/239.1.3.82:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO HITS OK
+http://iptv12k.com:35461/live/test167/12345/603.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO Signature
 https://nonton.site:8443/live/balubaid2/Erlangga2/26597.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO Signature OKS
+http://iptv12k.com:35461/live/test167/12345/596.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SINETRON HUNGKUL
+http://iptv12k.com:35461/live/test167/12345/728.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO CERIA
+http://iptv12k.com:35461/live/test167/12345/730.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO PRIMA
+http://iptv12k.com:35461/live/test167/12345/734.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK JR ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/522.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",WARNER TV
+http://iptv12k.com:35461/live/test167/12345/604.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CARTOON NETWORK ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/680.m3u8
@@ -111,8 +137,14 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/35484.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GALAXY TEST
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CELESTIAL MOVIES OK
+http://iptv12k.com:35461/live/test167/12345/210.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BOOMERANG ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/305.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3
+http://iptv12k.com:35461/live/test167/12345/224.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Box Office" tvg-logo="https://i.ibb.co/ZLYNxpD/removal-ai-tmp-6171c030c3aa8.png" group-title="MOVIES",BOX OFFICE+
 http://mvtv.tech:33210/tepoasa/tepo123/4972
