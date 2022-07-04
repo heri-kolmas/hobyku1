@@ -152,27 +152,6 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/305.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3
 http://iptv12k.com:35461/live/test167/12345/224.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Box Office" tvg-logo="https://i.ibb.co/ZLYNxpD/removal-ai-tmp-6171c030c3aa8.png" group-title="MOVIES",BOX OFFICE+
-http://mvtv.tech:33210/tepoasa/tepo123/4972
-
-#EXTINF:-1 tvg-id="" tvg-name="Box Office" tvg-logo="https://i.ibb.co/ZLYNxpD/removal-ai-tmp-6171c030c3aa8.png" group-title="MOVIES",Flim Indonesia
-http://mvtv.tech:33210/tepoasa/tepo123/4945
-
-#EXTINF:-1 tvg-id="" tvg-name="Movie+" tvg-logo="https://i.ibb.co/ZLYNxpD/removal-ai-tmp-6171c030c3aa8.png" group-title="MOVIES",Flim Komedi
-http://mvtv.tech:33210/tepoasa/tepo123/3891
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/2fzix2jgy45lu1o/IMG_1645412742354.jpg?dl=1" group-title="MOVIES",MARVEL STUDIO
-http://mvtv.tech:33210/live/Haura/12345/4679.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Baby Bus" tvg-logo="https://i.ibb.co/dkRC2vZ/SGN-05-18-2022-1652863250097.png" group-title="MOVIES",Baby Bus KIDS
-http://mvtv.tech:33210/live/Haura/12345/4839.m3u8
-
-#EXTINF:-1 xui-id="389" tvg-id="" tvg-name="Astro BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MOVIES",BOO
-http://mvtv.tech:33210/tepoasa/tepo123/4951
-
-#EXTINF:-1 tvg-id="SinemaIndonesia.MACAN" tvg-name="SinemaIndonesia.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/sinema_indonesia.png", Sinema Indonesia
-http://mvtv.tech:33210/tepoasa/tepo123/146
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA
 http://rr.dens.tv/h/h192/index.m3u8
 
@@ -187,9 +166,6 @@ http://rr.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ACNA -TV
 http://rr.dens.tv/h/h29/index.m3u8
-
-#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/imc.jpg", IMC
-https://delivery.macan.network/stream/imc/playlist.m3u8?token=rqvntc0&v=20200807
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CINEMA WORLD
 http://rr1.dens.tv/h/h04/index.m3u8
