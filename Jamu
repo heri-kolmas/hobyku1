@@ -107,6 +107,15 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/26597.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO Signature OKS
 http://iptv12k.com:35461/live/test167/12345/596.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX
+https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX FAMILLY
+http://dai2.xumo.com:80/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX ACTION
+https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_5000000/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SINETRON HUNGKUL
 http://iptv12k.com:35461/live/test167/12345/728.m3u8
 
