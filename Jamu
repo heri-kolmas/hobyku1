@@ -128,8 +128,11 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICKELDEON ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",iKONSER 
 https://nonton.site:8443/live/balubaid2/Erlangga2/29592.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
+https://nonton.site:8443/live/balubaid2/Erlangga2/29594.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IMC
 https://nonton.site:8443/live/balubaid2/Erlangga2/35484.m3u8
