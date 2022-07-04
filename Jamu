@@ -1,4 +1,4 @@
-#EXTM3U
+Ko#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",INDOSIEUR
 http://iptv12k.com:35461/live/test167/12345/595.m3u8
@@ -128,10 +128,10 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICKELDEON ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",iKONSER 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
 https://nonton.site:8443/live/balubaid2/Erlangga2/29592.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",iKONSER 
 https://nonton.site:8443/live/balubaid2/Erlangga2/29594.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IMC
