@@ -182,11 +182,20 @@ http://iptv12k.com:35461/live/test167/12345/210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BOOMERANG ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/305.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3 OK
+https://nonton.site:8443/balubaid2/Erlangga2/37433
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3
 http://iptv12k.com:35461/live/test167/12345/224.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA
 http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO
+https://nonton.site:8443/balubaid2/Erlangga2/37444
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MTV NOW
+https://nonton.site:8443/balubaid2/Erlangga2/37460
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",THAI-PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
@@ -230,6 +239,9 @@ http://rr1.dens.tv/h/h02/index10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANIMAX
 http://rr1.dens.tv/h/h144/index10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANIPLUS OK
+https://nonton.site:8443/balubaid2/Erlangga2/37439
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SPACETOON
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
