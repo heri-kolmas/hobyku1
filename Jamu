@@ -19,7 +19,7 @@ https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RCTI
-http://203.77.246.50:5000/udp/239.1.3.80:5000
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GTV
 http://203.77.246.50:5000/udp/239.1.3.68:5000
@@ -56,6 +56,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
+#EXTINF:-1,Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Net HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
 
@@ -85,6 +88,9 @@ http://203.77.246.50:5000/udp/239.1.1.14:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",K-Drama
 http://203.77.246.50:5000/udp/239.1.1.76:5000
+
+#EXTINF:-1 tvg-logo="", AMERICAN HORROR TV
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Discovery
 http://203.77.246.50:5000/udp/239.1.2.134:5000
@@ -128,7 +134,7 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/26597.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO Signature OKS
 http://iptv12k.com:35461/live/test167/12345/596.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JUST FOR LAUGHT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JUST FOR LAUGHT
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX
