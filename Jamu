@@ -122,6 +122,9 @@ http://203.77.246.50:5000/udp/239.1.2.136:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",WILD
 https://nonton.site:8443/live/balubaid2/Erlangga2/97.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",1MUSIC
+http://rtmp.one.by:1300
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",PARAMOUNT TV
 https://nonton.site:8443/live/balubaid2/Erlangga2/98.m3u8
 
