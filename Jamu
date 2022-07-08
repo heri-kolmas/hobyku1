@@ -183,7 +183,7 @@ http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICKELDEON ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",INSERT 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",PRAMBORS TV 
 https://nonton.site:8443/live/balubaid2/Erlangga2/1157.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",INSERT 
