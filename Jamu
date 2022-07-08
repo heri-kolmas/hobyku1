@@ -163,7 +163,7 @@ https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x7
 https://nonton.site:8443/live/balubaid2/Erlangga2/335.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SINETRON HUNGKUL
-http://iptv12k.com:35461/live/test167/12345/728.m3u8
+https://nonton.site:8443/live/balubaid2/Erlangga2/37467.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO CERIA
 http://iptv12k.com:35461/live/test167/12345/730.m3u8
@@ -182,6 +182,12 @@ http://203.77.246.50:5000/udp/239.1.2.154:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICKELDEON ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",INSERT 
+https://nonton.site:8443/live/balubaid2/Erlangga2/1157.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",INSERT 
+https://nonton.site:8443/live/balubaid2/Erlangga2/1763.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
 https://nonton.site:8443/live/balubaid2/Erlangga2/29592.m3u8
