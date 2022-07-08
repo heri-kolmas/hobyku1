@@ -89,6 +89,10 @@ http://203.77.246.50:5000/udp/239.1.1.14:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",K-Drama
 http://203.77.246.50:5000/udp/239.1.1.76:5000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CITRA DRAMA
+https://nonton.site:8443/live/balubaid2/Erlangga2/905.m3u8
+
+
 #EXTINF:-1 tvg-logo="", AMERICAN HORROR TV
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
