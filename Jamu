@@ -17,7 +17,7 @@ https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVRI 
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RCTI
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
@@ -32,7 +32,6 @@ http://203.77.246.50:5000/udp/239.1.3.78:5000
 https://nonton.site:8443/live/balubaid2/Erlangga2/280.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inews tv HD
-#http://syarman.xyz/NATIONAL/INEWS.m3u8
 https://mnctv-cutv.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVONE
@@ -40,16 +39,15 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51 
-#http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SCTV
-#http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-#http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
-#http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Kompas TV
@@ -60,7 +58,7 @@ http://45.126.83.51/uq2663/h/h11/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
-#http://45.126.83.51/qwr9ew/s/s05/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
@@ -70,13 +68,13 @@ http://202.150.153.254/bandungtv720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Net HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
-#http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RTV
 http://rr1.dens.tv/h/h10/02.m3u8
-#http://45.126.83.51/dr9445/h/h10/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MAN WOMAN WILD
 https://nonton.site:8443/live/balubaid2/Erlangga2/95.m3u8
@@ -86,7 +84,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Metro TV HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
-#http://45.126.83.51/uq2663/h/h12/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Berita Satu
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51
@@ -139,7 +137,7 @@ http://iptv12k.com:35461/live/test167/12345/599.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KIX
 http://rr1.dens.tv/h/h07/index.m3u8
-#http://45.126.83.51/dr9445/h/h07/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA EUROPE
 http://45.126.83.51/uq2663/h/h18/01.m3u8
@@ -341,7 +339,7 @@ http://203.77.246.50:5000/udp/239.1.2.162:5000
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Premium Channel", Thrill 
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+
 
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premium Channel", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8
@@ -351,14 +349,14 @@ http://v1.catcast.me/content/33816/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",CCM 
 http://rr2.dens.tv/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
-#http://45.126.83.51/qwr9ew/s/s31/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Pace Sport
 http://203.77.246.50:5000/udp/239.1.2.218:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Rock Ent HD
 http://203.77.246.50:5000/udp/239.1.2.220:5000
-#http://45.126.83.51/dr9445/h/h16/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVN
 http://45.126.83.51/dr9445/h/h20/01.m3u8
@@ -381,7 +379,7 @@ http://rr.dens.tv/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341h
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", KIX
 http://rr1.dens.tv/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
-#http://45.126.83.51/dr9445/h/h07/01.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Kids Channel - Toonz Kids
