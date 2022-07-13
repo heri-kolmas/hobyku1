@@ -217,7 +217,10 @@ https://nonton.site:8443/balubaid2/Erlangga2/37433
 http://45.126.83.51/dr9445/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3
-http://iptv12k.com:35461/live/test167/12345/224.m3u8
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94475.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN 2 SPORT 
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94492.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA
 http://rr.dens.tv/h/h192/index.m3u8
