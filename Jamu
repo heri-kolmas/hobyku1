@@ -12,6 +12,12 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/908.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ADI-TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",I AM CHANNEL
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",RANS ENTERTAINMENT
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KUGO STAR
 https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 
@@ -25,31 +31,31 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 http://203.77.246.50:5000/udp/239.1.3.80:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GTV
-http://203.77.246.50:5000/udp/239.1.3.68:5000
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176123
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MNC TV
-http://203.77.246.50:5000/udp/239.1.3.78:5000
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176117
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FASHION TV
 https://nonton.site:8443/live/balubaid2/Erlangga2/280.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inews tv HD
-https://mnctv-cutv.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176126
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVONE
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176145
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SCTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176131
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANTV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176138
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Kompas TV
-http://203.77.246.50:5000/udp/239.1.1.106:5000
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176148
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans TV HD
 http://45.126.83.51/uq2663/h/h11/01.m3u8
@@ -64,10 +70,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://202.150.153.254/bandungtv720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Net HD
-http://203.77.246.50:5000/udp/239.1.1.72:5000
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176140
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RTV
-http://rr1.dens.tv/h/h10/02.m3u8
+#EXTINF:-1,RTV
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176627
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MAN WOMAN WILD
 https://nonton.site:8443/live/balubaid2/Erlangga2/95.m3u8
@@ -87,8 +93,14 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JTV
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176167
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Sinema Indonesia 2
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176629
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Nusantara TV
-http://203.77.246.50:5000/udp/239.1.1.14:5000
+https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176624
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",K-Drama
 http://203.77.246.50:5000/udp/239.1.1.76:5000
