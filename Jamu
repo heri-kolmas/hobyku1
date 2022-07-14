@@ -1,4 +1,4 @@
-Ko#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",INDOSIEUR
 http://203.77.246.50:5000/udp/239.1.1.110:5000
