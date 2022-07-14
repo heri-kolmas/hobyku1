@@ -99,6 +99,9 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177016
 #EXTINF:-1,SMTV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177037
 
+#EXTINF:-1,IDX
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177089
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MAN WOMAN WILD
 https://nonton.site:8443/live/balubaid2/Erlangga2/95.m3u8
 
@@ -181,7 +184,7 @@ http://203.77.246.50:5000/udp/239.1.3.76:5000
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO HITS
-http://iptv12k.com:35461/live/test167/12345/603.m3u8
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177083
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO Signature
 https://nonton.site:8443/live/balubaid2/Erlangga2/26597.m3u8
@@ -196,10 +199,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/768x432_1200000/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX FAMILLY
-http://dai2.xumo.com:80/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/index.m3u8
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177078
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX ACTION
-https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_5000000/index.m3u8
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177080
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK TOONS ASIA
 https://nonton.site:8443/live/balubaid2/Erlangga2/335.m3u8
@@ -216,11 +219,17 @@ http://iptv12k.com:35461/live/test167/12345/734.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK JR ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/522.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TELENOVELA TV
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177076
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TOONKIDS
 http://45.126.83.51/qwr9ew/s/s15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CARTOON NETWORK ID
-http://203.77.246.50:5000/udp/239.1.2.154:5000
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177070
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",9KIDS TV
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177095
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICKELDEON ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
@@ -234,6 +243,9 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176984
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",INSERT 
 https://nonton.site:8443/live/balubaid2/Erlangga2/1763.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",IE
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177090
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
 https://nonton.site:8443/live/balubaid2/Erlangga2/29592.m3u8
@@ -321,7 +333,7 @@ http://rr1.dens.tv/h/h02/index10.m3u8
 http://rr1.dens.tv/h/h144/index10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANIPLUS OK
-https://nonton.site:8443/balubaid2/Erlangga2/37439
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177059
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SPACETOON
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
@@ -347,8 +359,11 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177051
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TLC
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BE SMART TV
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177067
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",AXN
-http://203.77.246.50:5000/udp/239.1.2.142:5000
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177060
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",One
 http://203.77.246.50:5000/udp/239.1.2.144:5000
