@@ -277,6 +277,12 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176979
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BOOMERANG ID
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",USEE SPORT
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177303
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",USEE SPORT2
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177304
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3 OK
 https://nonton.site:8443/balubaid2/Erlangga2/37433
 
