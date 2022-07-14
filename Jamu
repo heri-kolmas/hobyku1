@@ -45,6 +45,9 @@ https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MNC TV
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176117
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MNC TV 2
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177101
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FASHION TV
 https://nonton.site:8443/live/balubaid2/Erlangga2/280.m3u8
 
@@ -80,6 +83,9 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177043
 
 #EXTINF:-1,Bandung TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176966
+
+#EXTINF:-1,2LIFE STYLE FASHION TV
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177098
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Net HD
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176140
@@ -204,6 +210,9 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177078
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX ACTION
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177080
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",THRILL TV
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177115
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK TOONS ASIA
 https://nonton.site:8443/live/balubaid2/Erlangga2/335.m3u8
 
@@ -271,6 +280,9 @@ http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3 OK
 https://nonton.site:8443/balubaid2/Erlangga2/37433
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ELEVEN1 
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177129
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FIGHT SPORTS
 http://45.126.83.51/dr9445/h/h05/01.m3u8
 
@@ -308,7 +320,7 @@ http://rr1.dens.tv/h/h04/index.m3u8
 http://203.77.246.50:5000/udp/239.1.2.138:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",One tv
-http://rr.dens.tv/h/h143/index.m3u8
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177113
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",My Kidz
 #http://mvtv.tech:33210/tepoasa/tepo123/3830
