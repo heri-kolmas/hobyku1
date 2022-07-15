@@ -165,8 +165,8 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",PARAMOUNT TV
 https://nonton.site:8443/live/balubaid2/Erlangga2/98.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO ASIA
-https://nonton.site:8443/live/balubaid2/Erlangga2/210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO INDONESIA
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597670633
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO K-VISION
 http://203.77.246.50:5000/udp/239.1.3.84:5000 
@@ -266,7 +266,7 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/1763.m3u8
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177090
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
-https://nonton.site:8443/live/balubaid2/Erlangga2/29592.m3u8
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597669528
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",iKONSER 
 https://bit.ly/3aHduPC
@@ -293,7 +293,7 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177303
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177304
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3 OK
-https://nonton.site:8443/balubaid2/Erlangga2/37433
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597670080
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ELEVEN1 
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177129
