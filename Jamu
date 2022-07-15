@@ -217,13 +217,13 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177115
 https://nonton.site:8443/live/balubaid2/Erlangga2/335.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SINETRON HUNGKUL
-https://nonton.site:8443/live/balubaid2/Erlangga2/37467.m3u8
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176903
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO CERIA
-http://iptv12k.com:35461/live/test167/12345/730.m3u8
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176904
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO PRIMA
-http://iptv12k.com:35461/live/test167/12345/734.m3u8
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176901
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK JR ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/522.m3u8
@@ -235,7 +235,7 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177076
 http://45.126.83.51/qwr9ew/s/s15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CARTOON NETWORK ID
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177070
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176916
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",9KIDS TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177095
@@ -423,7 +423,7 @@ http://203.77.246.50:5000/udp/239.1.2.150:5000
 http://203.77.246.50:5000/udp/239.1.2.154:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Warner TV
-http://203.77.246.50:5000/udp/239.1.2.156:5000
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176952
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Boomerang
 http://203.77.246.50:5000/udp/239.1.2.158:5000
@@ -431,9 +431,6 @@ http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Celestial Movie
 http://203.77.246.50:5000/udp/239.1.2.162:5000
 #http://45.126.83.51/dr9445/h/h14/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Premium Channel", Thrill 
-http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premium Channel", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8
