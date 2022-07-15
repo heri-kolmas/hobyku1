@@ -4,10 +4,10 @@
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176884
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",DUNIA LAIN
-https://nonton.site:8443/live/balubaid2/Erlangga2/910.m3u8
+https://bit.ly/3clzxvT
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BIOSKOP INDONESIA
-https://nonton.site:8443/live/balubaid2/Erlangga2/908.m3u8
+https://bit.ly/3OiK5sY
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ADI-TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
@@ -142,7 +142,10 @@ http://203.77.246.50:5000/udp/239.1.1.76:5000
 http://45.126.83.51/uq2663/h/h08/index2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CITRA DRAMA
-https://nonton.site:8443/live/balubaid2/Erlangga2/905.m3u8
+https://bit.ly/3aN3rIJ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CITRA DANGDUT
+https://bit.ly/3uT3z0m
 
 #EXTINF:-1 tvg-logo="", AMERICAN HORROR TV
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
@@ -246,6 +249,9 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177095
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICKELDEON ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",INDI KIDS
+https://bit.ly/3yFZrlf
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",PRAMBORS TV 
 https://nonton.site:8443/live/balubaid2/Erlangga2/1157.m3u8
 
@@ -263,13 +269,13 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177090
 https://nonton.site:8443/live/balubaid2/Erlangga2/29592.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",iKONSER 
-https://nonton.site:8443/live/balubaid2/Erlangga2/29594.m3u8
+https://bit.ly/3aHduPC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IMC
 https://nonton.site:8443/live/balubaid2/Erlangga2/35484.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GALAXY PREMIUM
-https://nonton.site:8443/live/balubaid2/Erlangga2/29603.m3u8
+https://bit.ly/3PN1KKv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GALAXY
 https://nonton.site:8443/live/balubaid2/Erlangga2/29604.m3u8
