@@ -64,7 +64,7 @@ https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035505
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598264436
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANTV 2
-http://203.77.246.50:5000/udp/239.1.1.104:5000
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Kompas TV
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035513
