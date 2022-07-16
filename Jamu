@@ -63,6 +63,10 @@ https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035505
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANTV
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598264436
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANTV 2
+http://playlist.urfan.web.id/session/fe516dd8-0516-11ed-ab72-94cbac0b40a1/qwr9ew/s/s07/01.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Kompas TV
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035513
 
