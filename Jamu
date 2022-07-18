@@ -45,9 +45,6 @@ https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598034647
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MNC TV 2
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598034647
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FASHION TV
-https://nonton.site:8443/live/balubaid2/Erlangga2/280.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inews tv HD
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176126
 
@@ -55,10 +52,10 @@ https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176126
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176145
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Indosiar
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597915342
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SCTV
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035505
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANTV
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598264436
@@ -168,6 +165,9 @@ https://bit.ly/3uT3z0m
 
 #EXTINF:-1 tvg-logo="", AMERICAN HORROR TV
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Discovery
 http://203.77.246.50:5000/udp/239.1.2.134:5000
