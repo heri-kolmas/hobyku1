@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MUSIC TV
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599386197
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",DUNIA LAIN
 https://bit.ly/3clzxvT
 
@@ -187,9 +190,6 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",PARAMOUNT TV
 https://nonton.site:8443/live/balubaid2/Erlangga2/98.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597670633
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 
@@ -199,9 +199,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA EUROPE
 http://45.126.83.51/uq2663/h/h18/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597670633
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO FAMILY
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598024517
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO HITS
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598024516
@@ -209,17 +211,17 @@ https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598024516
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO SIGNATURE
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598024518
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JUST FOR LAUGHT
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO RED
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599386199
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX
-https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO MALAYSIA
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597723099
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX FAMILLY
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177078
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377334
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX ACTION
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177080
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377333
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",THRILL TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177115
@@ -231,7 +233,7 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176920
 https://nonton.site:8443/live/balubaid2/Erlangga2/335.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SINETRON HUNGKUL
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176903
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599378926
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO CERIA
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176904
@@ -241,6 +243,9 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176901
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK JR ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/522.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",DISNEY XD
+https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599379414
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TELENOVELA TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177076
