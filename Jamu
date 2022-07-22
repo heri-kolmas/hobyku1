@@ -64,7 +64,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CNN
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035514
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MAGNA TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f0b76267fbe12b936bd65e203dc675c1446503011668def857b1c03bafabba51
@@ -111,13 +111,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",WILD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",WILD
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046407
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MENTARITV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Metro TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Metro TV HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Berita Satu
@@ -127,7 +127,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Sinema Indonesia
-http://203.77.246.50:5000/udp/239.1.1.74:5000
+http://tvlive.my.id:25461/mat/mat/51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JTV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
@@ -159,10 +159,13 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",Discovery
 http://203.77.246.50:5000/udp/239.1.2.134:5000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",NATIONAL GEOGRAFIC
+http://tvlive.my.id:25461/mat/mat/71
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",Animal Planet
 http://203.77.246.50:5000/udp/239.1.2.136:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",WILD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",WILD
 https://nonton.site:8443/live/balubaid2/Erlangga2/97.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",1MUSIC
@@ -177,14 +180,26 @@ http://45.126.83.51/uq2663/h/h18/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO 2
+http://tvlive.my.id:25461/mat/mat/43
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO FAMILY
 http://203.77.246.50:5000/udp/239.1.3.76:5000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO FAMILY 2
+http://tvlive.my.id:25461/mat/mat/46
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO HITS
-http://203.77.246.50:5000/udp/239.1.3.82:5000
+http://tvlive.my.id:25461/mat/mat/56
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO HITS 2
+http://tvlive.my.id:25461/mat/mat/47
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO SIGNATURE
 http://203.77.246.50:5000/udp/239.1.3.74:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO SIGNATURE 2
+http://tvlive.my.id:25461/mat/mat/44
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FOX FAMILLY
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377334
@@ -193,45 +208,48 @@ https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377334
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377333
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",THRILL TV
-http://203.77.246.50:5000/udp/239.1.2.216:5000
+http://tvlive.my.id:25461/mat/mat/48
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA"ASTRO ARENA
+http://tvlive.my.id:25461/mat/mat/32
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",CITY TV
+http://tvlive.my.id:25461/mat/mat/42
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CINEMAX
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK TOONS ASIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICK TOONS ASIA
 https://nonton.site:8443/live/balubaid2/Erlangga2/335.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SINETRON HUNGKUL
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599378926
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",SINETRON HUNGKUL
+http://188.241.218.10:8070/smumtazkhan/JXWYwkWb42QyLn8A/171984
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO CERIA
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176904
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ASTRO PRIMA
+http://188.241.218.50:8070/smumtazkhan/JXWYwkWb42QyLn8A/157467?token=ShUNAEFcElxEWQcFWltQB1IEU1VXBgELVFNQV1NRVwADUgAAVA0DXwQaGEZKTREDAFhpWAUVDwgDBldUAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIEWlhTHRUVCFYWCkRXCgJcCxtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggMWl5DGRRSDkJbTURIQVgVICZBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsLUFBVARRM
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO PRIMA
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICK JR ID
+http://188.241.218.6:8070/smumtazkhan/JXWYwkWb42QyLn8A/165107?token=ShUNAEFcElxEXQBQXFxRUgAGUAkAAQ0OVFVWUwVWUVBSAwNTUFUHVlQaGEZKTREDAFhpWAUVDwgABFJSAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIEW1lQHRUVCFYWCkRUCgZVDhtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggJVlFDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsLVVFRAxRM
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK JR ID
-https://nonton.site:8443/live/balubaid2/Erlangga2/522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",DISNEY XD
+http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/157544?token=ShUNAEFcElxECgJVCAlXUVEBBQFVD1QMVQRXVgVaAFYHAl1UUQJTBwAaGEZKTREDAFhpWAUVDwgDBlZWA05DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIDUlRbHRUVCFYWCkRVCgNWDBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORgoBWlJDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsKVFJXABRM
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",DISNEY XD
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599379414
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TELENOVELA TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177076
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TOONKIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBNYIT",TOONKIDS
 http://45.126.83.51/qwr9ew/s/s15/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ZOOMOO
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ZOOMOO
+http://tvlive.my.id:25461/mat/mat/68
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CARTOON NETWORK ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",TV GELUT
+http://tvlive.my.id:25461/mat/mat/66
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",CARTOON NETWORK ID
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176916
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",9KIDS TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",9KIDS TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177095
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICKELDEON ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICKELDEON ID
 https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",INDI KIDS
@@ -243,307 +261,304 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/1157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",TRACKER TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176984
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",INSERT 
-https://nonton.site:8443/live/balubaid2/Erlangga2/1763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",DENS SHOWBIZ
+http://210.210.155.35/session/9d61a5cc-225c-11eb-8016-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",IE
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177090
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FLIK 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FLIK 
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597669528
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",iKONSER 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",iKONSER 
 https://bit.ly/3aHduPC
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",IMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",IMC
 https://nonton.site:8443/live/balubaid2/Erlangga2/35484.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GALAXY PREMIUM
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597608039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",GALAXY PREMIUM
+http://mohtarif.online:5555/asim1234/123456/39444?token=HxpcVkcJFg4RU1BRBVxfV11UUVVXDgBQUFUDVwVQBFIBCwJTDFZXVQJAT0BDEUtRWQhtXlYbDwFYB1MBHRNAFwFKa15QQw4WAFJQUQRHFRZMDF9SEAMEBFQEWQ4JAABcSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CHINESE DRAMA
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CHINESE DRAMA
+http://tvlive.my.id:25461/mat/mat/62
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",K+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",K+
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046375
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GALAXY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",GALAXY
 https://nonton.site:8443/live/balubaid2/Erlangga2/29604.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CELESTIAL MOVIES OK
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176979
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CELESTIAL MOVIES OK
+http://tvlive.my.id:25461/mat/mat/50
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BOOMERANG ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",BOOMERANG ID
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046404
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",USEE SPORT
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",USEE SPORT
+http://mohtarif.online:5555/97887222/97887222/39554?token=HxpcVkcJFg4RBlAEBF0IBlkBBw9UWAZRUAIEUAAAUF0GXQ0BVVUEUQVAT0BDEUtRWQhtXlYbDwFYBlQCHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAgFRSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",USEE SPORT2
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177304
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",USEE SPORT2
+http://mohtarif.online:5555/97887222/97887222/39555?token=HxpcVkcJFg4RUVUEBV0PUFtQUQFRXwIEBAFVVAUFBVYCWQAOAFMCAVBAT0BDEUtRWQhtXlYbDwFYBlQDHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAg1dSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3 OK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT 3 OK
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597670080
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ELEVEN1 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ELEVEN1 
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177129
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ELEVEN2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ELEVEN2
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177130
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SPORT TV+2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",SPORT TV+2
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177136
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FIGHT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",FIGHT SPORTS
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177147
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ESPN U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ESPN U
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177145
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT 1
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177180
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT 3
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94475.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MENGBAL ARAB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",MENGBAL ARAB
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598045521
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT2
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177181
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT4
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177183
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN SPORT5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT5
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177184
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO SUPER SPORT2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ASTRO SUPER SPORT2
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177286
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BEIN 2 SPORT 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN 2 SPORT 
 http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/94492.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",MY CINEMA
 http://rr.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ASTRO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ASTRO
 https://nonton.site:8443/balubaid2/Erlangga2/37444
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MTV NOW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",MTV NOW
 https://nonton.site:8443/balubaid2/Erlangga2/37460
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MU TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",MU TV
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598034645
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SPOT 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",SPOT 
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035518
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SPOT 2
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",SPOT 2
+http://tvlive.my.id:25461/mat/mat/28
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VARIETY 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",VARIETY 1
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598045520
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",THAI-PBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",THAI-PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA ASIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY CINEMA ASIA
 http://rr.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY FAMILY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",MY FAMILY CHANNEL
 http://rr.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ACNA -TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ACNA -TV
 http://rr.dens.tv/h/h29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CINEMA WORLD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CINEMA WORLD
 http://rr1.dens.tv/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",AFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",AFN
 http://203.77.246.50:5000/udp/239.1.2.138:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",One tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ONE TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177113
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",My Kidz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",My Kidz
 #http://mvtv.tech:33210/tepoasa/tepo123/3830
 http://rr.dens.tv/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Gem tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Gem tv
 http://rr.dens.tv/h/h19/index10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",AXN
-http://rr1.dens.tv/h/h141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN
+http://tvlive.my.id:25461/mat/mat/58
 
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
+#EXTINF:-1 tvg-id="FILM" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
 http://playlist.urfan.web.id/dr9445/h/h14/02.m3u8
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus.id", Aniplus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT"Aniplus
 http://rr1.dens.tv/h/h02/index10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANIMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ANIMAX
 http://rr1.dens.tv/h/h144/index10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ANIPLUS OK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ANIPLUS OK
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177059
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",SPACETOON
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",SPACETOON
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rock Entertainment", Rock Entertainment
 http://rr1.dens.tv/h/h16/index10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ROCK EXTREME
-http://rr1.dens.tv/h/h15/index10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ROCK EXTREME
+http://tvlive.my.id:25461/mat/mat/55
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",RADAR TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RADAR TV
 http://122.248.43.138:1935/ch17/myStream/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KAWANUA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",KAWANUA TV
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVN
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598045523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN
+http://tvlive.my.id:25461/mat/mat/49
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVN MOVIES
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177051
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",TLC
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",BE SMART TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177067
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",BE SMART TV
+http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/165087?token=ShUNAEFcElxEW1IAXw9TVFlRAQBSVgMKAgYABlVWUwcHUVJUVwMFV1caGEZKTREDAFhpWAUVDwgABFNaAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAVVNWHRUVCFYWCkRVCAZSCBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggLUlZDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsNW1BSF0s=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177060
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ONE
 http://203.77.246.50:5000/udp/239.1.2.144:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",GEM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",GEM
 http://203.77.246.50:5000/udp/239.1.2.146:5000
+http://tvlive.my.id:25461/mat/mat/63
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Hits
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176932
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Hits Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Hits Movies HD
 http://203.77.246.50:5000/udp/239.1.2.150:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Cartoon Network
 http://203.77.246.50:5000/udp/239.1.2.154:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Warner TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Warner TV
+http://188.241.218.50:8070/smumtazkhan/JXWYwkWb42QyLn8A/157550?token=ShUNAEFcElxEWQwGCQkHAwQFVAgCVAUJVwQHUVMHUVVUVlQFUVEDUwcaGEZKTREDAFhpWAUVDwgDBlZXB05DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAWlVSHRUVCFYWCkRUCABXDhtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggOU1RDGRRSDkJbTURIQVgVICZBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsLUlRYBBRM
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Boomerang
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Celestial Movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Celestial Movie
 http://203.77.246.50:5000/udp/239.1.2.162:5000
-#http://45.126.83.51/dr9445/h/h14/01.m3u8
 
-#EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Premium Channel", ZEE Bioskop 
+
+#EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="FILM", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/GbUL7p4.png group-title=Desun_Music,ROCK TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",ROCK TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177257
 
-#EXTINF:-1 group-title="MOVIES",CCM 
-http://rr2.dens.tv/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+#EXTINF:-1 group-title="FILM",CCM 
+http://210.210.155.35/session/7fafa004-09d9-11ed-9f18-b82a72d63267/qwr9ew/s/s31/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES",MMA TV 
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046402
+#EXTINF:-1 group-title="OLAH RAGA",MMA TV 
+http://tvlive.my.id:25461/mat/mat/66
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Pace Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",Pace Sport
 http://203.77.246.50:5000/udp/239.1.2.218:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Rock Ent HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Rock Ent HD
 http://203.77.246.50:5000/udp/239.1.2.220:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN
 http://45.126.83.51/dr9445/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TVN MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN MOVIES
 http://45.126.83.51/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Rock Ext HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Rock Ext HD
 http://203.77.246.50:5000/udp/239.1.2.222:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", FIGHT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="OLAH RAGA" tvg-logo="", FIGHT SPORTS
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046401
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", VOLY ARAB
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="OLAH RAGA" tvg-logo="", VOLY ARAB
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598045522
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Motorvision TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="OLAH RAGA" tvg-logo="", Motorvision TV
 http://rr.dens.tv/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", KIX
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FILM" tvg-logo="", KIX
 http://rr1.dens.tv/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Kids Channel - Toonz Kids
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", Kids Channel - Toonz Kids
 http://rr3.dens.tv/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", My Kidz
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", My Kidz
 http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Animax
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", Animax
 http://rr1.dens.tv/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", ANIPLUS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", ANIPLUS
 http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
 
-#EXTINF:-1, tvg-logo="http://cdn.ninmedia.net/channel/1638930639400916991.jpeg" group-title="MUSIC", Dangdut Tivi
+#EXTINF:-1, tvg-logo="http://cdn.ninmedia.net/channel/1638930639400916991.jpeg" group-title="MUSIK", Dangdut Tivi
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIK",POP MUSIK
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",VEVO - ROCK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIK",VEVO - ROCK
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177277
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",KUGO 1
+#EXTINF:-1 tvg-logo="" group-title="MUSIK",KUGO 1
 http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",K Pop Channel
+#EXTINF:-1 tvg-logo="" group-title="MUSIK",K Pop Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat (480p)" tvg-logo="" group-title="Premium Channel",Drama Sangat (480p)
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat (480p)" tvg-logo="" group-title="LUAR NAGREG",Drama Sangat (480p)
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 tvg-logo="https://themusicuniverse.com/wp-content/uploads/2013/03/vevotv.jpg" group-title="MUSIC",Pluto TV Vevo Pop
+#EXTINF:-1 tvg-logo="https://themusicuniverse.com/wp-content/uploads/2013/03/vevotv.jpg" group-title="MUSIK",Pluto TV Vevo Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://themusicuniverse.com/wp-content/uploads/2013/03/vevotv.jpg" group-title="MUSIC",Pluto TV VEVO 80
+#EXTINF:-1 tvg-logo="https://themusicuniverse.com/wp-content/uploads/2013/03/vevotv.jpg" group-title="MUSIK",Pluto TV VEVO 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Biggest Pop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIK",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Block Party
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIK",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV WMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIK",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Spankin\'New
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIK",MTV Spankin\'New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Yo!
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIK",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.metin.tv/wp-content/uploads/2022/02/ConTV-Anime-320x180.png" group-title="MOVIES", ConANIME
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.metin.tv/wp-content/uploads/2022/02/ConTV-Anime-320x180.png" group-title="BEBENYIT", CONTV-ANIME
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 
-#EXTINF:-1 group-title="ANOBYZ Music" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1194587568_b964000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAWORLD" tvg-logo="" group-title="Premium Channel",CINEMAWORLD
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAWORLD" tvg-logo="" group-title="FILM",CINEMAWORLD
 http://rr1.dens.tv/h/h04/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Elshinta TV" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="Local Indonesia",Elshinta TV
+#EXTINF:-1 tvg-id="" tvg-name="Elshinta TV" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="LOKAL",Elshinta TV
 http://rr2.dens.tv/s/s10/index10.m3u8
 
 
