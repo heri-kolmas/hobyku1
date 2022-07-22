@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MUSIC TV
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599386197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ASTRO CERIA
+https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176896
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",DUNIA LAIN
 https://bit.ly/3clzxvT
@@ -450,14 +450,13 @@ http://203.77.246.50:5000/udp/239.1.2.150:5000
 http://203.77.246.50:5000/udp/239.1.2.154:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Warner TV
-http://188.241.218.50:8070/smumtazkhan/JXWYwkWb42QyLn8A/157550?token=ShUNAEFcElxEWQwGCQkHAwQFVAgCVAUJVwQHUVMHUVVUVlQFUVEDUwcaGEZKTREDAFhpWAUVDwgDBlZXB05DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAWlVSHRUVCFYWCkRUCABXDhtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggOU1RDGRRSDkJbTURIQVgVICZBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsLUlRYBBRM
+http://203.77.246.50:5000/udp/239.1.2.156:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Boomerang
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Celestial Movie
 http://203.77.246.50:5000/udp/239.1.2.162:5000
-
 
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="FILM", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8
@@ -555,10 +554,7 @@ https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1194587568_b964000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAWORLD" tvg-logo="" group-title="FILM",CINEMAWORLD
-http://rr1.dens.tv/h/h04/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Elshinta TV" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="LOKAL",Elshinta TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Elshinta
 http://rr2.dens.tv/s/s10/index10.m3u8
 
 
