@@ -37,7 +37,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://tvlive.my.id:25461/mat/mat/4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GTV
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598034649
+http://203.77.246.50:5000/udp/239.1.3.68:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MNC TV
 http://tvlive.my.id:25461/mat/mat/5
@@ -111,9 +111,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
-#EXTINF:-1,IDX
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177089
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",WILD
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046407
 
@@ -123,23 +120,20 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Metro TV HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Berita Satu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Berita Satu
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JakTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JakTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Sinema Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY TV NET
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598034642
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JTV
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JTV
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176167
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Sinema Indonesia 2
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176629
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SIMPANG TV
+http://tvlive.my.id:25461/mat/mat/4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NUSANTARA TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
@@ -150,28 +144,22 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",KABAH TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",K-Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",K-DRAMA
 http://203.77.246.50:5000/udp/239.1.1.76:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",K+ ID
-http://45.126.83.51/uq2663/h/h08/index2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CITRA DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CITRA DRAMA
 https://bit.ly/3aN3rIJ
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CITRA DANGDUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",CITRA DANGDUT
 https://bit.ly/3uT3z0m
 
-#EXTINF:-1 tvg-logo="", AMERICAN HORROR TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AMERICAN HOROR
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIES",Flix
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",Discovery
 http://203.77.246.50:5000/udp/239.1.2.134:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",Animal Planet
 http://203.77.246.50:5000/udp/239.1.2.136:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",WILD
@@ -180,46 +168,34 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/97.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",1MUSIC
 http://rtmp.one.by:1300
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",PARAMOUNT TV
-https://nonton.site:8443/live/balubaid2/Erlangga2/98.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",KIX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",KIX
 http://rr1.dens.tv/h/h07/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MOVIES X
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",MY CINEMA EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY CINEMA EUROPE
 http://45.126.83.51/uq2663/h/h18/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597670633
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO
+http://203.77.246.50:5000/udp/239.1.3.84:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO FAMILY
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598024517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO FAMILY
+http://203.77.246.50:5000/udp/239.1.3.76:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO HITS
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598024516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO HITS
+http://203.77.246.50:5000/udp/239.1.3.82:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO SIGNATURE
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598024518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO SIGNATURE
+http://203.77.246.50:5000/udp/239.1.3.74:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO RED
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599386199
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO MALAYSIA
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597723099
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX FAMILLY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FOX FAMILLY
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377334
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",FOX ACTION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FOX ACTION
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377333
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",THRILL TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",THRILL TV
+http://203.77.246.50:5000/udp/239.1.2.216:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CINEMAX
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176920
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NICK TOONS ASIA
