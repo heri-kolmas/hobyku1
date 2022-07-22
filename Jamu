@@ -16,12 +16,12 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176991
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GARUDA TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176993
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",JAWA POS TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JAWA POS TV
+https://v2.siar.us/jawapostv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",I AM CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",I AM CHANNEL
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RANS ENTERTAINMENT
@@ -51,6 +51,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INDOSIAR HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INDOSIAR HD2
+http://tvlive.my.id:25461/mat/mat/10
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
@@ -66,16 +69,22 @@ https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035514
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MAGNA TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f0b76267fbe12b936bd65e203dc675c1446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CNBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",DW ENGLISH
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TEMPO TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=5d188b044333b4c62676e0d4f53dade7446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",DAAI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CNBC
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035515
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans TV HD
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177044
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Trans TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Trans 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Trans 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BANDUNG TV
@@ -87,23 +96,20 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1,2LIFE STYLE FASHION TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177098
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Net HD
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NET TV
+http://tvlive.my.id:25461/mat/mat/14
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Net TV 2
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598035512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Net TV 2
+http://210.210.155.35/session/7cae621e-0966-11ed-9742-b82a72d63267/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1,RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 
-#EXTINF:-1,THE INDONESIA CHANNEL
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",THE INDONESIA CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1,NTV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177016
-
-#EXTINF:-1,SMTV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SMTV
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1,IDX
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177089
@@ -135,8 +141,14 @@ https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176167
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Sinema Indonesia 2
 https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176629
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Nusantara TV
-https://m3u-editor.com/serve/4853a990-00b0-11ed-8830-395cb43f41cb/595176624
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NUSANTARA TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MUSLIM UPDATE
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",KABAH TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",K-Drama
 http://203.77.246.50:5000/udp/239.1.1.76:5000
