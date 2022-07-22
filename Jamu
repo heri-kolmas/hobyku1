@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CEKING",test ts
-http://125.227.210.55:15714/VideoInput/play.ts
+http://axcestv.vip:8080/live/freeview/axcestv/971.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ASTRO CERIA
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176896
