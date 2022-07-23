@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CEKING",test ts
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="TEST" tvg-name="" tvg-logo="" group-title="CEKING",IMC MPD
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-id="TEST" tvg-name="" tvg-logo="" group-title="CEKING",GALAXY MPD
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-id="TEST" tvg-name="" tvg-logo="" group-title="CEKING",ANIMAL PLANET MPD
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#EXTINF:-1 tvg-id="TEST" tvg-name="" tvg-logo="" group-title="CEKING",INEWS MPD
+https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ASTRO CERIA
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176896
