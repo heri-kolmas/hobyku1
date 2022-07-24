@@ -1,5 +1,31 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" group-title="cek" tvg-id="001" tvg-name="001-Media-Informasi", • Media Informasi
+http://192.168.255.254/21.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital_HD.png" group-title="cek" tvg-id="002" tvg-name="002-Media-Informasi-HD", • Media Informasi HD
+http://192.168.255.254/11.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" group-title="cek" tvg-id="003" tvg-name="003-Siaran-Acak", • Siaran Acak
+http://192.168.255.254/22.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital_HD.png" group-title="cek" tvg-id="004" tvg-name="004-Siaran-Acak-HD", • Siaran Acak HD
+http://192.168.255.254/12.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_abcaustralia.png" group-title="cek" tvg-id="005" tvg-name="005-ABC-AUSTRALIA", ABC AUSTRALIA
+rtp://@239.1.1.33:8172
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_afn.png" group-title="cek" tvg-id="006" tvg-name="006-AFN", AFN
+rtp://@239.1.2.12:8046
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_afn_hd.png" group-title="cek" tvg-id="007" tvg-name="007-AFN-HD", AFN HD
+rtp://@239.1.2.13:8052
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_aljazeera.png" group-title="cek" tvg-id="008" tvg-name="008-AL-JAZEERA", AL JAZEERA
+rtp://@239.1.1.195:9144
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ASTRO CERIA
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176896
 
@@ -234,7 +260,7 @@ http://188.241.218.6:8070/smumtazkhan/JXWYwkWb42QyLn8A/165107?token=ShUNAEFcElxE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",DISNEY XD
 http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/157544?token=ShUNAEFcElxECgJVCAlXUVEBBQFVD1QMVQRXVgVaAFYHAl1UUQJTBwAaGEZKTREDAFhpWAUVDwgDBlZWA05DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIDUlRbHRUVCFYWCkRVCgNWDBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORgoBWlJDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsKVFJXABRM
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBNYIT",TOONKIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",TOONKIDS
 http://45.126.83.51/qwr9ew/s/s15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ZOOMOO
