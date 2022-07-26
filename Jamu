@@ -9,8 +9,8 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://web1.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg",KARAOKE BARAT
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmLw50NQujCMRlJSrQJpbyPj6jnSBtc2gEQ&usqp=CAU",ROCK TV 2
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",TLC
+https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846442
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWS3-BCkH0Rs7MMIiog_Q-kVaSxvbFAWXXQ&usqp=CAU", Loop TV
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
@@ -256,10 +256,13 @@ http://188.241.218.10:8070/smumtazkhan/JXWYwkWb42QyLn8A/171984
 http://188.241.218.50:8070/smumtazkhan/JXWYwkWb42QyLn8A/157467?token=ShUNAEFcElxEWQcFWltQB1IEU1VXBgELVFNQV1NRVwADUgAAVA0DXwQaGEZKTREDAFhpWAUVDwgDBldUAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIEWlhTHRUVCFYWCkRXCgJcCxtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggMWl5DGRRSDkJbTURIQVgVICZBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsLUFBVARRM
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICK JR ID
-http://188.241.218.6:8070/smumtazkhan/JXWYwkWb42QyLn8A/165107?token=ShUNAEFcElxEXQBQXFxRUgAGUAkAAQ0OVFVWUwVWUVBSAwNTUFUHVlQaGEZKTREDAFhpWAUVDwgABFJSAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIEW1lQHRUVCFYWCkRUCgZVDhtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggJVlFDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsLVVFRAxRM
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847044
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",DISNEY XD
 http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/157544?token=ShUNAEFcElxECgJVCAlXUVEBBQFVD1QMVQRXVgVaAFYHAl1UUQJTBwAaGEZKTREDAFhpWAUVDwgDBlZWA05DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIDUlRbHRUVCFYWCkRVCgNWDBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORgoBWlJDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsKVFJXABRM
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",DISNEY JUNIOR
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847012
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",TOONKIDS
 http://45.126.83.51/qwr9ew/s/s15/01.m3u8
@@ -271,19 +274,16 @@ http://tvlive.my.id:25461/mat/mat/68
 http://tvlive.my.id:25461/mat/mat/66
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",CARTOON NETWORK ID
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176916
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",9KIDS TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177095
+http://203.77.246.50:5000/udp/239.1.2.154:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICKELDEON ID
-https://nonton.site:8443/live/balubaid2/Erlangga2/962.m3u8
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847045
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",INDI KIDS
 https://bit.ly/3yFZrlf
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",PRAMBORS TV 
-https://nonton.site:8443/live/balubaid2/Erlangga2/1157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",MY KIDS
+http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",TRACKER TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176984
@@ -292,7 +292,7 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176984
 http://210.210.155.35/session/9d61a5cc-225c-11eb-8016-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",IE
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177090
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847027
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FLIK 
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/597669528
@@ -309,6 +309,9 @@ http://mohtarif.online:5555/asim1234/123456/39444?token=HxpcVkcJFg4RU1BRBVxfV11U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CHINESE DRAMA
 http://tvlive.my.id:25461/mat/mat/62
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ZEE BIOSKOP
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847063
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",K+
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046375
 
@@ -319,7 +322,7 @@ https://nonton.site:8443/live/balubaid2/Erlangga2/29604.m3u8
 http://tvlive.my.id:25461/mat/mat/50
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",BOOMERANG ID
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046404
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847006
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",USEE SPORT
 http://mohtarif.online:5555/97887222/97887222/39554?token=HxpcVkcJFg4RBlAEBF0IBlkBBw9UWAZRUAIEUAAAUF0GXQ0BVVUEUQVAT0BDEUtRWQhtXlYbDwFYBlQCHRNAFwFKa15QQw4WAltQUANHFRZMDF9SEAMEBFQLVAYGAgFRSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
@@ -399,6 +402,9 @@ http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",MY FAMILY CHANNEL
 http://rr.dens.tv/h/h194/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",MOLA TV
+https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846042
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ACNA -TV
 http://rr.dens.tv/h/h29/index.m3u8
 
@@ -411,12 +417,14 @@ http://203.77.246.50:5000/udp/239.1.2.138:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ONE TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177113
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",My Kidz
-#http://mvtv.tech:33210/tepoasa/tepo123/3830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",MY KIDS 2
 http://rr.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Gem tv
 http://rr.dens.tv/h/h19/index10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TELENOVELLA
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847013
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN
 http://tvlive.my.id:25461/mat/mat/58
@@ -492,7 +500,8 @@ http://rr2.dens.tv/s/s32/01.m3u8
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177257
 
 #EXTINF:-1 group-title="FILM",CCM 
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+#http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846189
 
 #EXTINF:-1 group-title="OLAH RAGA",MMA TV 
 http://tvlive.my.id:25461/mat/mat/66
@@ -507,7 +516,8 @@ http://203.77.246.50:5000/udp/239.1.2.220:5000
 http://45.126.83.51/dr9445/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN MOVIES
-http://45.126.83.51/dr9445/h/h21/01.m3u8
+#http://45.126.83.51/dr9445/h/h21/01.m3u8 
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847059
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Rock Ext HD
 http://203.77.246.50:5000/udp/239.1.2.222:5000
@@ -523,6 +533,9 @@ http://rr.dens.tv/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341h
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FILM" tvg-logo="", KIX
 http://rr1.dens.tv/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", Kids Channel - BABY TV
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846998
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", Kids Channel - Toonz Kids
 http://rr3.dens.tv/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
@@ -542,11 +555,11 @@ http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIK",POP MUSIK
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIK",VEVO - ROCK
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177277
-
 #EXTINF:-1 tvg-logo="" group-title="MUSIK",KUGO 1
 http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIK",DM TV
+https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846044
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIK",K Pop Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
@@ -580,6 +593,24 @@ https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://rubbyguntara.github.io/src/img/musictop.png",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1194587568_b964000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",DIGIONE
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846926
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MAX2U
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846951
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",USSE PRIME
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846992
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",USSE PHOTO
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846991
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RUANG TRAMPIL
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846967
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SALING SAPA TV
+https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846969
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Elshinta
 http://rr2.dens.tv/s/s10/index10.m3u8
