@@ -115,7 +115,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BANDUNG TV
 http://202.150.153.254/bandungtv720p.m3u8
@@ -291,7 +291,7 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176984
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",DENS SHOWBIZ
 http://210.210.155.35/session/9d61a5cc-225c-11eb-8016-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HIBURAN",IE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",IE
 https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847027
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FLIK 
