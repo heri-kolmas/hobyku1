@@ -51,6 +51,9 @@ https://ms.digdaya.tv/live/digdayatv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JAWA POS TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TV EDUKASI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",I AM CHANNEL
 http://iamchannel.org:1935/tes/1/playlist.m3u8
 
@@ -144,6 +147,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BERITA SATU
+http://ku03.wanicelife.com:8880/12m0525/772229617/60476
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",ANIMAL PLANET
+http://ku03.wanicelife.com:8880/12m0525/772229617/60475
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",WILD
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046407
 
@@ -180,6 +189,12 @@ http://203.77.246.50:5000/udp/239.1.1.76:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CITRA DRAMA
 https://bit.ly/3aN3rIJ
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVS HI TOPS
+https://rpn1.bozztv.com/36bay2/gusa-hitops/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",VIZIO
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",CITRA DANGDUT
 https://bit.ly/3uT3z0m
 
@@ -211,7 +226,7 @@ http://45.126.83.51/uq2663/h/h18/01.m3u8
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO 2
-http://tvlive.my.id:25461/mat/mat/43
+http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO FAMILY
 http://203.77.246.50:5000/udp/239.1.3.76:5000
@@ -271,13 +286,16 @@ https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847012
 http://45.126.83.51/qwr9ew/s/s15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ZOOMOO
-http://tvlive.my.id:25461/mat/mat/68
+https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",TV GELUT
 http://tvlive.my.id:25461/mat/mat/66
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",CARTOON NETWORK ID
 http://203.77.246.50:5000/udp/239.1.2.154:5000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",CARTOON NITO
+http://ku03.wanicelife.com:8880/12m0525/772229617/60410
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICKELDEON ID
 https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847045
@@ -313,7 +331,7 @@ http://mohtarif.online:5555/asim1234/123456/39444?token=HxpcVkcJFg4RU1BRBVxfV11U
 http://tvlive.my.id:25461/mat/mat/62
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ZEE BIOSKOP
-https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847063
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",K+
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046375
@@ -430,7 +448,7 @@ http://rr.dens.tv/h/h19/index10.m3u8
 https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847013
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN
-http://tvlive.my.id:25461/mat/mat/58
+http://ku03.wanicelife.com:8880/12m0525/772229617/60464
 
 #EXTINF:-1 tvg-id="FILM" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
 http://playlist.urfan.web.id/dr9445/h/h14/02.m3u8
@@ -503,8 +521,7 @@ http://rr2.dens.tv/s/s32/01.m3u8
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177257
 
 #EXTINF:-1 group-title="FILM",CCM 
-#http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
-https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846189
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA",MMA TV 
 http://tvlive.my.id:25461/mat/mat/66
@@ -519,8 +536,7 @@ http://203.77.246.50:5000/udp/239.1.2.220:5000
 http://45.126.83.51/dr9445/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN MOVIES
-#http://45.126.83.51/dr9445/h/h21/01.m3u8 
-https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847059
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 
 
 _____________ RADIO____________
@@ -877,10 +893,10 @@ https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846926
 https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846951
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",USSE PRIME
-https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846992
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",USSE PHOTO
-https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846991
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RUANG TRAMPIL
 https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846967
