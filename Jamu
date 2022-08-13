@@ -100,7 +100,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 https://m3u-editor.com/serve/a97b5390-16c2-11ed-9c2e-75195d5fa909/611900635
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Kompas TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BRTV
+https://e1.siar.us/badartv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CNN
 https://m3u-editor.com/serve/196599e0-16c3-11ed-bbad-8fc60a765768/611901567
