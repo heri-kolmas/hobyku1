@@ -123,8 +123,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INDOSIAR 1
 http://210.247.248.113:25461/Free/Pakedoloo/3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INDOSIAR liga
-http://tvlive.my.id:25461/mat/mat/7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INDOSIAR LIGA
+http://tvlive.my.id:25461/mat/mat/11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MQTV
 http://210.247.248.113:25461/Free/Pakedoloo/101
