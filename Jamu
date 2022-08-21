@@ -42,6 +42,9 @@ https://bit.ly/3clzxvT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",BIOSKOP INDONESIA
 https://bit.ly/3OiK5sY
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CITRA BIOSKOP 02
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429900
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",BAYWATCH
 http://210.247.248.113:25461/Free/Pakedoloo/43
 
@@ -90,8 +93,14 @@ http://tvlive.my.id:25461/mat/mat/5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RCTI
 http://210.247.248.113:25461/Free/Pakedoloo/5
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RCTI 03
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429587
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GTV
 http://tvlive.my.id:25461/mat/mat/8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GTV 03
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429591
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GTV OK
 http://210.247.248.113:25461/Free/Pakedoloo/7
@@ -107,6 +116,9 @@ http://210.247.248.113:25461/Free/Pakedoloo/8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INEWS 2
 http://tvlive.my.id:25461/mat/mat/18
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INEWS 03
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429594
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",VISION PRIME
 https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037339
@@ -756,6 +768,9 @@ http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 
 #EXTINF:-1 group-title="FILM",CCM 2
 http://210.247.248.113:25461/Free/Pakedoloo/29
+
+#EXTINF:-1 group-title="FILM",CCM 03
+https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429843
 
 #EXTINF:-1 group-title="OLAH RAGA",MMA TV 
 http://tvlive.my.id:25461/mat/mat/66
