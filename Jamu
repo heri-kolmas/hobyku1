@@ -6,6 +6,57 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6M0hRSBwZVv9MCajNIDNYeAYwIswz6bMeNg&usqp=CAU",THE EDGE TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
+#EXTINF:-1 group-title="LOKAL",KOMPAS BACK
+http://tvn.x10.mx/vidio/master-26.m3u8
+
+#EXTINF:-1 group-title="LOKAL",TV ONE BACK
+http://tvn.x10.mx/vidio/master-27.m3u8
+
+#EXTINF:-1 group-title="LOKAL",TRANS7 BACK
+http://tvn.x10.mx/vidio/master-28.m3u8
+
+#EXTINF:-1 group-title="LOKAL",TRANSTV BACK
+http://tvn.x10.mx/vidio/master-33.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA",Champions 1
+http://tvn.x10.mx/vidio/master-7.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA",Champions 2
+http://tvn.x10.mx/vidio/master-8.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA",Champions 3
+http://tvn.x10.mx/vidio/master-9.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA",Champions Goal
+http://tvn.x10.mx/vidio/master-10.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Citra Dangdut
+http://tvn.x10.mx/vidio/master-11.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Indosiar
+http://tvn.x10.mx/vidio/master.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Sctv 
+http://tvn.x10.mx/vidio/master-1.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Citra Bioskop
+http://tvn.x10.mx/vidio/master-2..m3u8
+
+#EXTINF:-1 group-title="LOKAL",Citra Drama
+http://tvn.x10.mx/vidio/master-3.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Hip hip hore
+http://tvn.x10.mx/vidio/master-4.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Citra Muslim
+http://tvn.x10.mx/vidio/master-5.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Citra Dangdut
+http://tvn.x10.mx/vidio/master-11.m3u8
+
+#EXTINF:-1 group-title="LOKAL",Citra Entertainment
+http://tvn.x10.mx/vidio/master-12.m3u8
+
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://web1.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg",KARAOKE BARAT
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
