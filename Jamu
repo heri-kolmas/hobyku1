@@ -473,7 +473,7 @@ http://210.247.248.113:25461/Free/Pakedoloo/24
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO HITS 2
-http://210.247.248.113:25461/Free/Pakedoloo/22
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019508
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HITS BACKUP
 http://tvlive.my.id:25461/mat/mat/56
@@ -752,7 +752,7 @@ http://rr.dens.tv/h/h29/index.m3u8
 http://rr1.dens.tv/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",AFN
-http://203.77.246.50:5000/udp/239.1.2.138:5000
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016980
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ONE TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177113
@@ -800,10 +800,10 @@ http://210.247.248.113:25461/Free/Pakedoloo/93
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Rock Entertainment
-http://210.247.248.113:25461/Free/Pakedoloo/57
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017013
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ROCK EXTREME
-http://210.247.248.113:25461/Free/Pakedoloo/58
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017014
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RADAR TV
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
@@ -815,7 +815,7 @@ http://122.248.43.138:1935/ch18/myStream/live.m3u8
 http://tvlive.my.id:25461/mat/mat/49
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",TLC
-http://203.77.246.50:5000/udp/239.1.2.140:5000
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016981
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",BE SMART TV
 http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/165087?token=ShUNAEFcElxEW1IAXw9TVFlRAQBSVgMKAgYABlVWUwcHUVJUVwMFV1caGEZKTREDAFhpWAUVDwgABFNaAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAVVNWHRUVCFYWCkRVCAZSCBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggLUlZDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsNW1BSF0s=
@@ -823,30 +823,32 @@ http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/165087?token=ShUNAEFcEl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177060
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ONE
-http://203.77.246.50:5000/udp/239.1.2.144:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN 2
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016982
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",GEM
-http://203.77.246.50:5000/udp/239.1.2.146:5000
-http://tvlive.my.id:25461/mat/mat/63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ONE
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016983
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GEM
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016984
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Hits
-http://210.247.248.113:25461/Free/Pakedoloo/40
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016985
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Hits Movies HD
-http://210.247.248.113:25461/Free/Pakedoloo/41
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016986
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Cartoon Network
-http://203.77.246.50:5000/udp/239.1.2.154:5000
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016988
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Warner TV
-http://210.247.248.113:25461/Free/Pakedoloo/33
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016989
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Boomerang
-http://203.77.246.50:5000/udp/239.1.2.158:5000
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016990
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Celestial Movie
-http://203.77.246.50:5000/udp/239.1.2.162:5000
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016991
 
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="FILM", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8
@@ -879,7 +881,7 @@ http://45.126.83.51/dr9445/h/h20/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN MOVIES OK
-http://210.247.248.113:25461/Free/Pakedoloo/35
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019510
 
 _____________ RADIO____________
 
