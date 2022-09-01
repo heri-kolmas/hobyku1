@@ -7,7 +7,10 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 #EXTINF:-1 group-title="LOKAL",KOMPAS BACK
-http://tvn.x10.mx/vidio/master-26.m3u8
+https://video.jixie.media/live-test/kompastv.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA",NBA SPORT
+http://103.22.181.150:8095/nbatv/mpegts
 
 #EXTINF:-1 group-title="LOKAL",TV ONE BACK
 http://tvn.x10.mx/vidio/master-27.m3u8
@@ -18,14 +21,21 @@ http://tvn.x10.mx/vidio/master-28.m3u8
 #EXTINF:-1 group-title="LOKAL",TRANSTV BACK
 http://tvn.x10.mx/vidio/master-33.m3u8
 
+#EXTINF:-1 group-title="OLAH RAGA",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 group-title="OLAH RAGA",SPORTING TV
+http://45.92.69.72:8001/play/a02n
+
 #EXTINF:-1 group-title="OLAH RAGA",Champions 1
 http://tvn.x10.mx/vidio/master-7.m3u8
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA",Champions 2
-http://tvn.x10.mx/vidio/master-8.m3u8
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA",Champions 3
-http://tvn.x10.mx/vidio/master-9.m3u8
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA",Champions Goal
 http://tvn.x10.mx/vidio/master-10.m3u8
@@ -602,7 +612,7 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177130
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177136
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",FIGHT SPORTS
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177147
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ESPN U
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177145
