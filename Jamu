@@ -24,6 +24,84 @@ http://tvn.x10.mx/vidio/master-33.m3u8
 #EXTINF:-1 group-title="OLAH RAGA",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
+#EXTINF:-1 group-title="KOMPILASI",NET TV
+https://nonton.site:8443/mustakim/mustakim/78
+
+#EXTINF:-1 group-title="KOMPILASI",INDOSIAR
+https://nonton.site:8443/mustakim/mustakim/1845
+
+#EXTINF:-1 group-title="KOMPILASI",KOMPAS
+https://nonton.site:8443/mustakim/mustakim/30
+
+#EXTINF:-1 group-title="KOMPILASI",TV ONE
+https://nonton.site:8443/mustakim/mustakim/29
+
+#EXTINF:-1 group-title="KOMPILASI",INSERT
+https://nonton.site:8443/mustakim/mustakim/1763
+
+#EXTINF:-1 group-title="KOMPILASI",AXN
+https://nonton.site:8443/mustakim/mustakim/9
+
+#EXTINF:-1 group-title="KOMPILASI",CINEMAX
+https://nonton.site:8443/mustakim/mustakim/2156
+
+#EXTINF:-1 group-title="KOMPILASI",HITS
+https://nonton.site:8443/mustakim/mustakim/94
+
+#EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
+https://nonton.site:8443/mustakim/mustakim/30184
+
+#EXTINF:-1 group-title="KOMPILASI",HBO 
+https://nonton.site:8443/mustakim/mustakim/1496
+
+#EXTINF:-1 group-title="KOMPILASI",HBO HITS
+https://nonton.site:8443/mustakim/mustakim/11492
+
+#EXTINF:-1 group-title="KOMPILASI",HBO SIGNATURE
+https://nonton.site:8443/mustakim/mustakim/1498
+
+#EXTINF:-1 group-title="KOMPILASI",GALAXY PREMIUM
+https://nonton.site:8443/mustakim/mustakim/29603
+
+#EXTINF:-1 group-title="KOMPILASI",GALAXY
+https://nonton.site:8443/mustakim/mustakim/29604
+
+#EXTINF:-1 group-title="KOMPILASI",DUNIA LAIN
+https://nonton.site:8443/mustakim/mustakim/910
+
+#EXTINF:-1 group-title="KOMPILASI",FLIK
+https://nonton.site:8443/mustakim/mustakim/29592
+
+#EXTINF:-1 group-title="KOMPILASI",IMC
+https://nonton.site:8443/mustakim/mustakim/35484
+
+#EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
+https://nonton.site:8443/mustakim/mustakim/680
+
+#EXTINF:-1 group-title="KOMPILASI",NICKELODEON
+https://nonton.site:8443/mustakim/mustakim/962
+
+#EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
+https://nonton.site:8443/mustakim/mustakim/905
+
+#EXTINF:-1 group-title="KOMPILASI",iKONSER
+https://nonton.site:8443/mustakim/mustakim/29594
+
+#EXTINF:-1 group-title="KOMPILASI",PRAMBORS TV
+https://nonton.site:8443/mustakim/mustakim/1157
+
+#EXTINF:-1 group-title="KOMPILASI",ASTRO RANIA
+https://nonton.site:8443/mustakim/mustakim/37467
+
+#EXTINF:-1 group-title="KOMPILASI",ASTRO RIA
+https://nonton.site:8443/mustakim/mustakim/37332
+
+#EXTINF:-1 group-title="KOMPILASI",NAT GEO
+https://nonton.site:8443/mustakim/mustakim/37389
+
+#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT
+https://nonton.site:8443/mustakim/mustakim/37432
+
 #EXTINF:-1 group-title="OLAH RAGA",SPORTING TV
 http://45.92.69.72:8001/play/a02n
 
