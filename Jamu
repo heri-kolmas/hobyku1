@@ -12,15 +12,6 @@ https://video.jixie.media/live-test/kompastv.m3u8
 #EXTINF:-1 group-title="OLAH RAGA",NBA SPORT
 http://103.22.181.150:8095/nbatv/mpegts
 
-#EXTINF:-1 group-title="LOKAL",TV ONE BACK
-http://tvn.x10.mx/vidio/master-27.m3u8
-
-#EXTINF:-1 group-title="LOKAL",TRANS7 BACK
-http://tvn.x10.mx/vidio/master-28.m3u8
-
-#EXTINF:-1 group-title="LOKAL",TRANSTV BACK
-http://tvn.x10.mx/vidio/master-33.m3u8
-
 #EXTINF:-1 group-title="OLAH RAGA",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
@@ -81,6 +72,9 @@ https://nonton.site:8443/mustakim/mustakim/29592
 #EXTINF:-1 group-title="KOMPILASI",IMC
 https://nonton.site:8443/mustakim/mustakim/35484
 
+#EXTINF:-1 group-title="KOMPILASI",IMC 2
+http://103.120.207.17:25461/live/gremlins59/8898/1403.ts?token=TBpYVERRRFhGAVRXBVkOAA8NUFoFVgMEUQ0HU1EGAQNVCggHDwFSAVATGRdBTERRWFhuUAVGDgFWCAQeEkJFUUVnWVEVA0RVUgkCFx4aQl1UUBMDUFICA1YIDwYEABoWR1FUFw0bVVNRBgAXHhpTTE1QQ1cACGtUB05eUVUVDFpCVFwZFVYIPQBUWFRcXBQOGwUTFUMNR0BAAllHXFsaFlVRREdWTQNAXhMNAgsaGhZaWkRXFRZNElgafnYSGxRRT0xVW0RQCQxGCxdBQRoaFlBGbksEF0BCB1laV0IVDBYHGhwXWlgePQdeW1tXW0JdVltCG1tGBhJOGlpdXl5CW0VnQFxTG1xAUwMMAxBF
+
 #EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
 https://nonton.site:8443/mustakim/mustakim/680
 
@@ -112,7 +106,6 @@ https://nonton.site:8443/mustakim/mustakim/37432
 http://45.92.69.72:8001/play/a02n
 
 #EXTINF:-1 group-title="OLAH RAGA",Champions 1
-http://tvn.x10.mx/vidio/master-7.m3u8
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA",Champions 2
@@ -121,8 +114,8 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 group-title="OLAH RAGA",Champions 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
-#EXTINF:-1 group-title="OLAH RAGA",Champions Goal
-http://tvn.x10.mx/vidio/master-10.m3u8
+#EXTINF:-1 group-title="OLAH RAGA",TNT SPORT
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 
 #EXTINF:-1 group-title="LOKAL",Citra Dangdut
 http://tvn.x10.mx/vidio/master-11.m3u8
@@ -134,22 +127,13 @@ http://tvn.x10.mx/vidio/master.m3u8
 http://tvn.x10.mx/vidio/master-1.m3u8
 
 #EXTINF:-1 group-title="LOKAL",Citra Bioskop
-http://tvn.x10.mx/vidio/master-2..m3u8
+http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 
 #EXTINF:-1 group-title="LOKAL",Citra Drama
 http://tvn.x10.mx/vidio/master-3.m3u8
 
-#EXTINF:-1 group-title="LOKAL",Hip hip hore
-http://tvn.x10.mx/vidio/master-4.m3u8
-
-#EXTINF:-1 group-title="LOKAL",Citra Muslim
-http://tvn.x10.mx/vidio/master-5.m3u8
-
-#EXTINF:-1 group-title="LOKAL",Citra Dangdut
-http://tvn.x10.mx/vidio/master-11.m3u8
-
-#EXTINF:-1 group-title="LOKAL",Citra Entertainment
-http://tvn.x10.mx/vidio/master-12.m3u8
+#EXTINF:-1 group-title="LOKAL",Citra Dangdut 2
+http://tv.zonanime.my.id/vidio/citradangdut.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://web1.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg",KARAOKE BARAT
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
