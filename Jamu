@@ -27,6 +27,15 @@ https://nonton.site:8443/mustakim/mustakim/30
 #EXTINF:-1 group-title="KOMPILASI",TV ONE
 https://nonton.site:8443/mustakim/mustakim/29
 
+#EXTINF:-1 group-title="KOMPILASI",KOREA DRAMA
+https://nonton.site:8443/mustakim/mustakim/35769
+
+#EXTINF:-1 group-title="KOMPILASI",USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",USEE PHOTO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",GTV OK
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016577
 
@@ -1233,4 +1242,19 @@ https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Elshinta
 http://rr2.dens.tv/s/s10/index10.m3u8
 
+------------------------------------------------------------------
 
+FILM SERIAL 
+
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg" group-title="Serial",Loki S01 E01
+https://nonton.site:8443/series/mustakim/mustakim/39915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg" group-title="Serial",Loki S01 E02
+https://nonton.site:8443/series/mustakim/mustakim/39916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uyN6O9lZwbMdJEI27fINxHc8Los.jpg" group-title="Serial",Loki S01 E03
+https://nonton.site:8443/series/mustakim/mustakim/39955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/uQt2dCsVqOCoYeg0XOcOqGfkdN9.jpg" group-title="Serial",Loki S01 E04
+https://nonton.site:8443/series/mustakim/mustakim/40029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fRAAO13URmteku8mb39V9YPJBb.jpg" group-title="Serial",Loki S01 E05
+https://nonton.site:8443/series/mustakim/mustakim/40148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98hGgYbNFP8GnZhJzAar22bWIAT.jpg" group-title="Serial",Loki S01 E06
+https://nonton.site:8443/series/mustakim/mustakim/40149.mkv
