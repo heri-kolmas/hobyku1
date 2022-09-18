@@ -21,11 +21,29 @@ https://nonton.site:8443/mustakim/mustakim/78
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR
 https://nonton.site:8443/mustakim/mustakim/1845
 
+#EXTINF:-1 group-title="KOMPILASI",CHAMPION TV1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",CHAMPION TV2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",TRANS 7
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",BEINS 3 
+http://topstb.com:8000/50656250782258/27115840859269/156443
+
 #EXTINF:-1 group-title="KOMPILASI",KOMPAS
 https://nonton.site:8443/mustakim/mustakim/30
 
 #EXTINF:-1 group-title="KOMPILASI",TV ONE
-https://nonton.site:8443/mustakim/mustakim/29
+http://210.210.155.35/session/93c06f30-eb83-11eb-a9d6-b82a72d63267/qwr9ew/s/s105/02.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",SCTV HD
+http://rr2.dens.tv/s/s03/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",KOREA DRAMA
 https://nonton.site:8443/mustakim/mustakim/35769
