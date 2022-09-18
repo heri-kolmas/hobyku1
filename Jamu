@@ -7,7 +7,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 #EXTINF:-1 group-title="LOKAL",KOMPAS BACK
-https://video.jixie.media/live-test/kompastv.m3u8 |User-Agent=Lavf/56.15.102
+https://video.jixie.media/live-test/kompastv.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="OLAH RAGA",NBA SPORT
 http://103.22.181.150:8095/nbatv/mpegts
@@ -19,10 +19,10 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 https://nonton.site:8443/mustakim/mustakim/78 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR OK
-http://tvlive.my.id:25461/mat/mat/11 |User-Agent=Lavf/56.15.102
+http://tvlive.my.id:25461/mat/mat/11|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CHAMPION TV1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8 |User-Agent=Lavf/56.15.102
+http://tv.zonanime.my.id/vidio/championstv1.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CHAMPION TV2
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
@@ -34,13 +34,13 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="KOMPILASI",BEINS 3 
-http://topstb.com:8000/50656250782258/27115840859269/156443 |User-Agent=Lavf/56.15.102
+http://topstb.com:8000/50656250782258/27115840859269/156443|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",KOMPAS
 https://nonton.site:8443/mustakim/mustakim/30 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",MNCTV OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571 |User-Agent=Lavf/56.15.102
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",TV ONE OK
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
