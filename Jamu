@@ -856,11 +856,11 @@ http://203.77.246.50:5000/udp/239.1.2.220:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN
 http://45.126.83.51/dr9445/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN MOVIES
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVN MOVIES
+https://nonton.site:8443/mustakim/mustakim/927
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN MOVIES OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019510
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVN MOVIES 2
+https://nonton.site:8443/mustakim/mustakim/37376
 
 _____________ RADIO____________
 
