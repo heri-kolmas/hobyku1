@@ -6,6 +6,11 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6M0hRSBwZVv9MCajNIDNYeAYwIswz6bMeNg&usqp=CAU",THE EDGE TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
+
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-logo="https://i.postimg.cc/QMgjFzFk/20220909-162554.png" group-title="TESTING",Supersport Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://ad2017.vhls.ru.com/cdnus2/premium417/index.m3u8|referer=https://besthdplayer.click/
+
 #EXTINF:-1 group-title="LOKAL",KOMPAS BACK
 https://video.jixie.media/live-test/kompastv.m3u8
 
