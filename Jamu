@@ -97,13 +97,13 @@ https://nonton.site:8443/mustakim/mustakim/29604
 https://nonton.site:8443/mustakim/mustakim/910
 
 #EXTINF:-1 group-title="KOMPILASI",FLIK
-https://nonton.site:8443/mustakim/mustakim/29592
+https://nonton.site:8443/mustakim/mustakim/29592 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",IMC
 https://nonton.site:8443/mustakim/mustakim/35484
 
 #EXTINF:-1 group-title="KOMPILASI",IMC 2
-https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612
+https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
 https://nonton.site:8443/mustakim/mustakim/680
@@ -400,7 +400,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://tvlive.my.id:25461/mat/mat/12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BANDUNG TV
-http://202.150.153.254/bandungtv720p.m3u8
+http://202.150.153.254/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NHK WORLD 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
