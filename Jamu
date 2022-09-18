@@ -7,7 +7,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 #EXTINF:-1 group-title="LOKAL",KOMPAS BACK
-https://video.jixie.media/live-test/kompastv.m3u8
+https://video.jixie.media/live-test/kompastv.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="OLAH RAGA",NBA SPORT
 http://103.22.181.150:8095/nbatv/mpegts
@@ -16,13 +16,13 @@ http://103.22.181.150:8095/nbatv/mpegts
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",NET TV
-https://nonton.site:8443/mustakim/mustakim/78
+https://nonton.site:8443/mustakim/mustakim/78 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR OK
-http://tvlive.my.id:25461/mat/mat/11
+http://tvlive.my.id:25461/mat/mat/11 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CHAMPION TV1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
+http://tv.zonanime.my.id/vidio/championstv1.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CHAMPION TV2
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
@@ -34,25 +34,25 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="KOMPILASI",BEINS 3 
-http://topstb.com:8000/50656250782258/27115840859269/156443
+http://topstb.com:8000/50656250782258/27115840859269/156443 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",KOMPAS
-https://nonton.site:8443/mustakim/mustakim/30
+https://nonton.site:8443/mustakim/mustakim/30 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",MNCTV OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",TV ONE OK
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="KOMPILASI",RCTI TV OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016574
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016574 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",SCTV HD
-http://rr2.dens.tv/s/s03/index.m3u8
+http://rr2.dens.tv/s/s03/index.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",KOREA DRAMA
-https://nonton.site:8443/mustakim/mustakim/35769
+https://nonton.site:8443/mustakim/mustakim/35769 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
@@ -61,16 +61,16 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",GTV OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016577
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016577 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",INEWS
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016580
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016580 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",INSERT
-https://nonton.site:8443/mustakim/mustakim/1763
+https://nonton.site:8443/mustakim/mustakim/1763 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",K+
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",AXN
 https://nonton.site:8443/mustakim/mustakim/9
@@ -106,49 +106,49 @@ https://nonton.site:8443/mustakim/mustakim/910 |User-Agent=Lavf/56.15.102
 https://nonton.site:8443/mustakim/mustakim/29592 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",IMC
-https://nonton.site:8443/mustakim/mustakim/35484
+https://nonton.site:8443/mustakim/mustakim/35484 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",IMC 2
 https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
-https://nonton.site:8443/mustakim/mustakim/680
+https://nonton.site:8443/mustakim/mustakim/680 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",NICKELODEON
-https://nonton.site:8443/mustakim/mustakim/962
+https://nonton.site:8443/mustakim/mustakim/962 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
-https://nonton.site:8443/mustakim/mustakim/905
+https://nonton.site:8443/mustakim/mustakim/905 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",iKONSER
-https://nonton.site:8443/mustakim/mustakim/29594
+https://nonton.site:8443/mustakim/mustakim/29594 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",PRAMBORS TV
-https://nonton.site:8443/mustakim/mustakim/1157
+https://nonton.site:8443/mustakim/mustakim/1157 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",ASTRO RANIA
-https://nonton.site:8443/mustakim/mustakim/37467
+https://nonton.site:8443/mustakim/mustakim/37467 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",ASTRO RIA
-https://nonton.site:8443/mustakim/mustakim/37332
+https://nonton.site:8443/mustakim/mustakim/37332 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",NAT GEO
-https://nonton.site:8443/mustakim/mustakim/37389
+https://nonton.site:8443/mustakim/mustakim/37389 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",BEIN SPORT
-https://nonton.site:8443/mustakim/mustakim/37432
+https://nonton.site:8443/mustakim/mustakim/37432 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",BEIN SPORT back
 https://nonton.site:8443/mustakim/mustakim/728
 
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR 5
-https://nonton.site:8443/mustakim/mustakim/1845
+https://nonton.site:8443/mustakim/mustakim/1845 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",BEIN SPORT 3a
-https://nonton.site:8443/mustakim/mustakim/729
+https://nonton.site:8443/mustakim/mustakim/729 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",MTV MUSIC
-https://nonton.site:8443/mustakim/mustakim/286
+https://nonton.site:8443/mustakim/mustakim/286 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="OLAH RAGA",SPORTING TV
 http://45.92.69.72:8001/play/a02n
@@ -1271,14 +1271,14 @@ http://rr2.dens.tv/s/s10/index10.m3u8
 FILM SERIAL 
 
 #EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg" group-title="Serial",Loki S01 E01
-https://nonton.site:8443/series/mustakim/mustakim/39915.mkv
+https://nonton.site:8443/series/mustakim/mustakim/39915.mkv |User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-name="Loki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg" group-title="Serial",Loki S01 E02
-https://nonton.site:8443/series/mustakim/mustakim/39916.mkv
+https://nonton.site:8443/series/mustakim/mustakim/39916.mkv |User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-name="Loki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uyN6O9lZwbMdJEI27fINxHc8Los.jpg" group-title="Serial",Loki S01 E03
-https://nonton.site:8443/series/mustakim/mustakim/39955.mkv
+https://nonton.site:8443/series/mustakim/mustakim/39955.mkv |User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-name="Loki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/uQt2dCsVqOCoYeg0XOcOqGfkdN9.jpg" group-title="Serial",Loki S01 E04
-https://nonton.site:8443/series/mustakim/mustakim/40029.mkv
+https://nonton.site:8443/series/mustakim/mustakim/40029.mkv |User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-name="Loki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fRAAO13URmteku8mb39V9YPJBb.jpg" group-title="Serial",Loki S01 E05
-https://nonton.site:8443/series/mustakim/mustakim/40148.mkv
+https://nonton.site:8443/series/mustakim/mustakim/40148.mkv |User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="" tvg-name="Loki S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98hGgYbNFP8GnZhJzAar22bWIAT.jpg" group-title="Serial",Loki S01 E06
-https://nonton.site:8443/series/mustakim/mustakim/40149.mkv
+https://nonton.site:8443/series/mustakim/mustakim/40149.mkv |User-Agent=Lavf/56.15.102
