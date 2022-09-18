@@ -28,10 +28,10 @@ http://tv.zonanime.my.id/vidio/championstv1.m3u8
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="KOMPILASI",TRANS 7
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
 #EXTINF:-1 group-title="KOMPILASI",BEINS 3 
 http://topstb.com:8000/50656250782258/27115840859269/156443
