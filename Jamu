@@ -39,8 +39,14 @@ http://topstb.com:8000/50656250782258/27115840859269/156443
 #EXTINF:-1 group-title="KOMPILASI",KOMPAS
 https://nonton.site:8443/mustakim/mustakim/30
 
-#EXTINF:-1 group-title="KOMPILASI",TV ONE
-http://210.210.155.35/session/93c06f30-eb83-11eb-a9d6-b82a72d63267/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 group-title="KOMPILASI",MNCTV OK
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571
+
+#EXTINF:-1 group-title="KOMPILASI",TV ONE OK
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+
+#EXTINF:-1 group-title="KOMPILASI",RCTI TV OK
+http://tvlive.my.id:25461/mat/mat/5
 
 #EXTINF:-1 group-title="KOMPILASI",SCTV HD
 http://rr2.dens.tv/s/s03/index.m3u8
