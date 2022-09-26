@@ -118,7 +118,7 @@ https://nonton.site:8443/mustakim/mustakim/680 |User-Agent=Lavf/56.15.102
 https://nonton.site:8443/mustakim/mustakim/962 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
-https://nonton.site:8443/mustakim/mustakim/905 |User-Agent=Lavf/56.15.102
+  http://tv.zonanime.my.id/vidio/citradrama.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",iKONSER
 https://nonton.site:8443/mustakim/mustakim/29594 |User-Agent=Lavf/56.15.102
@@ -174,7 +174,7 @@ http://tvn.x10.mx/vidio/master.m3u8
 #EXTINF:-1 group-title="LOKAL",Sctv 
 http://tvn.x10.mx/vidio/master-1.m3u8
 
-#EXTINF:-1 group-title="LOKAL",Citra Bioskop
+#EXTINF:-1 group-title="KOMPILASI",Citra Bioskop
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 
 #EXTINF:-1 group-title="LOKAL",Citra Drama
