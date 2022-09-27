@@ -7,7 +7,10 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 #EXTINF:-1 group-title="LOKAL",KOMPAS BACK
-https://video.jixie.media/live-test/kompastv.m3u8|User-Agent=Lavf/56.15.102
+https://video.jixie.media/live-test/kompastv.m3u8 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",ATV MOVIES
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29899 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="OLAH RAGA",NBA SPORT
 http://103.22.181.150:8095/nbatv/mpegts
@@ -85,11 +88,20 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
 #EXTINF:-1 group-title="KOMPILASI",HITS MOVIE
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/99 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",THRILL
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/4 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",WARNER TV
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1533 |User-Agent=Lavf/56.15.102
+
 #EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",HBO 
+#EXTINF:-1 group-title="KOMPILASI",HBO (HD)
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/210 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",HBO (SD)
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26595 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",HBO HITS
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26596 |User-Agent=Lavf/56.15.102
