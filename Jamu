@@ -233,19 +233,25 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37332 |User-Agent=Lavf/56.
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37389 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",BEIN SPORT PREMIUM 1
-http://topstb.com:8000/50656250782258/27115840859269/156445 |User-Agent=Lavf/56.15.102
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/728
 
 #EXTINF:-1 group-title="KOMPILASI",BEIN SPORT PREMIUM 2
-http://topstb.com:8000/50656250782258/27115840859269/156444 |User-Agent=Lavf/56.15.102
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/729
+
+#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT PREMIUM 3
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37433
+
+#EXTINF:-1 group-title="KOMPILASI",ASTRO ARENA (HD)
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37422
 
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR 5
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1845 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT PREMIUM 3
-http://topstb.com:8000/50656250782258/27115840859269/156443 |User-Agent=Lavf/56.15.102
-
 #EXTINF:-1 group-title="KOMPILASI",MTV MUSIC
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/286 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",CCM
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/5
 
 #EXTINF:-1 group-title="OLAH RAGA",SPORTING TV
 http://45.92.69.72:8001/play/a02n
@@ -677,8 +683,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://ia903105.us.archive.org/14/items/CaliforniaMusicChannel/california%20music%20channel.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",KIX
-http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",KIX
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY CINEMA EUROPE
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016851
@@ -890,8 +896,50 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TELENOVELLA
 https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847013
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN
-http://ku03.wanicelife.com:8880/12m0525/772229617/60464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",AXN
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",ONE
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/19
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",NET BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/78
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TV ONE BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",KOMPAS BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",ANTV BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/31
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",SCTV BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/32
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TRANS TV BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/34
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TRANS 7 BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVRI BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/36
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",CNN BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/44
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",NATIONAL GEOGRAFIC BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/96
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",NAT GRO WILD BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/97
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",PARAMOUNT BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",HITS MOVIE BACKUP
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/99
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN 2
 http://tvlive.my.id:25461/mat/mat/58
