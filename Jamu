@@ -42,6 +42,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",MARVEL STUDIOS 2
 http://5gfksa.ltd:2052/991155/551199/126946
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",INDOSIAR DENS 
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",TV ONE DENS 
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="KOMPILASI", Usee Photo(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
