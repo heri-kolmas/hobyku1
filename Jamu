@@ -45,11 +45,35 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",MARVEL STUDIOS 2
 http://5gfksa.ltd:2052/991155/551199/126946
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",INDOSIAR DENS 
-http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR DENS 
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",TV ONE DENS 
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TV ONE DENS 
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TV ONE 2 DENS 
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS DENS 
+https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV DENS
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV DENS
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS TV DENS
+https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 DENS
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV DENS
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",POP MUSIC DENS
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="KOMPILASI", Usee Photo(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
