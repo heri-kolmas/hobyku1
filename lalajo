@@ -87,6 +87,9 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/40
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HOREE TV RIE
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
 
+#EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/680 |User-Agent=Lavf/56.15.102
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HITS MOVIES RIE
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
 
@@ -171,6 +174,27 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",The Indonesia Channel(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
+#EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",HBO (HD)
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/210 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",HBO (SD)
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26595 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",HBO HITS
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26596 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",HBO SIGNATURE
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26597 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",GALAXY PREMIUM
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29603 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",GALAXY
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29604 |User-Agent=Lavf/56.15.102
+
 #EXTINF:-1 group-title="KOMPILASI",IMC
 https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612
 
@@ -191,7 +215,6 @@ http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:-1 group-title="OLAH RAGA",SPOT TV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/67
-
 
 #EXTINF:-1 group-title="KOMPILASI",CITRA DANGDUT
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
