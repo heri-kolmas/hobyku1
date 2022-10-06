@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",RCTI RIE
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016574
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR VIDEOHD RIE
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
@@ -8,14 +12,29 @@ http://mohtarif.online:5555/hashim111/hashim111/39427?token=HxpcVkcJFg4RUQBaBFcL
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR 2 RIE
 http://210.210.155.35/session/94ee6302-7ee3-11ea-9585-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",GTV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",GTV 1 RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TV ONE RIE 
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS TV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/12
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS 1 RIE
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS 2 RIE
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",MNC TV RIE
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/01
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV RIE
 http://210.210.155.35/session/9940309a-62c0-11eb-964d-912c89b3e225/qwr9ew/s/s03/02.m3u8
@@ -26,17 +45,29 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INEWS RIE
 http://103.120.207.17:25461/live/gremlins59/8898/1336.ts?token=TBpYVERRRFhGAldRVA8PBQsEUAFSV1dUUw9VAgIFDwEFWlENBgEHAwUTGRdBTERRWFhuUAVGDgFRCwEeEkJFUUVnWVEVA0RVUgkCFx4aQl1UUBMDUFICBVIKAQMJABoWR1FUFw0bV1ddAQMXHhpTTE1QQ1cACGtUB05eUVUVDFpCVFwZFVYIPQBUWFRcXBQOGwUTFUMNR0BAAllHXFsaFlVRREdWTQNAXhMBBwEIFBgbVl5MDxBGSUACFXt0FRoWUkBEUFlKDw0KEw8XRksUGBtcQmYTAUdEEF1WX1VFFA4VCBIZFVQHGjtSWltcXVVAUFpfSkNeFgJAFBVfX1lfQFhKb0VeXURYRgUHDQMLFEk=
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/04
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV RIE
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV 2 RIE
 http://45.126.83.51/qwr9ew/s/s07/01.m3u8
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/15
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS TV RIE
 https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 RIE
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV HD RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/03
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 1 RIE
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
@@ -44,14 +75,59 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 2 RIE
 http://210.210.155.35/session/fc1231f4-4523-11ed-b86e-b82a72d63267/qwr9ew/s/s08/index.m3u8
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INEWS TV RIE
+https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016580
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NICKELODEON ID RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/38
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ZOOMOO RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/40
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HOREE TV RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HITS MOVIES RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/51
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HITS RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/52
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ROCK EXTREME RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",POP MUSIC RIE
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",BANDUNG TV RIE
+http://202.150.153.254/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SUMEDANG TV RIE
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",ELSHINTA TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/75
+
+#EXTINF:-1 group-title="KOMPILASI",DAAI TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/05
+
+#EXTINF:-1 group-title="KOMPILASI",TVRI
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/06
+
+#EXTINF:-1 group-title="KOMPILASI",RTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/08
+
+#EXTINF:-1 group-title="KOMPILASI",METRO TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/11
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TVRI NASIONAL RIE
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNBC RIE
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN INDONESIA RIE
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/22
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN RIE
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
@@ -113,6 +189,10 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37467 |User-Agent=Lavf/56.
 #EXTINF:-1 group-title="OLAH RAGA",Champions 1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
+#EXTINF:-1 group-title="OLAH RAGA",SPOT TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/67
+
+
 #EXTINF:-1 group-title="KOMPILASI",CITRA DANGDUT
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 
@@ -130,3 +210,50 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 
 #EXTINF:-1 group-title="KOMPILASI",MENTARI TV
 https://live-production.secureswiftcontent.com/exp=1665039623~acl=/hls-p/ingest_8237_*/*~hmac=2e819702474b6bc89fb31acd75ad30054850a731910862a2a1825ecaa8f32c27/hls-p/ingest_8237_720p/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",BIOSKOP INDONESIA
+https://cgk1.securepath.site/indoneuetyhbsrt/bxbdrtyhevxh/908?token=QhBYV0dYRg4TXVcAV1wHAVdTBwBQDVFTDgMGCQdTV1IBBlQOAANQDVUaSBAQEEJXVQhvWgIbCVwJDBwTFEUEEGZbVBQOElUFBwFdB0FIEkZdCFURXAgFUwwEAwFXB1JOG0JZUhYKRgcGD1EEQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1NXABAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIBBIdQ1sODFBGX0RrQA1QEwJGAFdTABBJ |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",DUNIA LAIN
+https://cgk1.securepath.site/indoneuetyhbsrt/bxbdrtyhevxh/910?token=QhBYV0dYRg4TWgYGWgBRBVBUBgQDCwAECVBVV1EDUVZaCgcBVVJVVgYaSBAQEEJXVQhvWgIbCVwIBBwTFEUEEGZbVBQOElUFBwFdB0FIEkZdCFURXAgFUwwEAwFZBFFOG0JZUhYKRgcHCVcKQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGClRWEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVQJFhwTDFkPC01dQmlEWQAWCxpWAVJSEk8= |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",NAT GEO WILD
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
+
+#EXTINF:-1 group-title="KOMPILASI",TVN MOVIES ID
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
+
+#EXTINF:-1 group-title="KOMPILASI",MUSIK KOREA
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
+
+#EXTINF:-1 group-title="KOMPILASI",CCTV LOKASI BROADWAY
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/100
+
+#EXTINF:-1 group-title="KOMPILASI",MUSIC TOP 
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/101
+
+#EXTINF:-1 group-title="KOMPILASI",BT SPORT 1 
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/106
+
+#EXTINF:-1 group-title="KOMPILASI",BT SPORT 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/109
+
+#EXTINF:-1 group-title="KOMPILASI",BT SPORT 3
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/142
+
+#EXTINF:-1 group-title="KOMPILASI",RODJA TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/114
+
+#EXTINF:-1 group-title="KOMPILASI",SALAM TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/115
+
+#EXTINF:-1 group-title="KOMPILASI",MAKKAH TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/116
+
+#EXTINF:-1 group-title="KOMPILASI",IMC 2
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/133
+
+#EXTINF:-1 group-title="KOMPILASI",DISCOVERY CHANNEL
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
+
+
