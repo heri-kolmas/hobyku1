@@ -210,10 +210,10 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1157 |User-Agent=Lavf/56.1
 #EXTINF:-1 group-title="KOMPILASI",ASTRO RANIA
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37467 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="OLAH RAGA",Champions 1
+#EXTINF:-1 group-title="KOMPILASI",Champions 1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
-#EXTINF:-1 group-title="OLAH RAGA",SPOT TV
+#EXTINF:-1 group-title="KOMPILASI",SPOT TV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/67
 
 #EXTINF:-1 group-title="KOMPILASI",CITRA DANGDUT
@@ -255,6 +255,9 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/100
 #EXTINF:-1 group-title="KOMPILASI",MUSIC TOP 
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/101
 
+#EXTINF:-1 group-title="KOMPILASI",MOJI HD RIE
+https://etslive-2-vidio-com.akamaized.net/exp=1665054007~acl=/hls-p/ingest_206_*/*~hmac=db4b19d301a205ab842cc3a21152545a66fc6b2b6106f453e666c107defc25af/hls-p/ingest_206_720p/index.m3u8
+
 #EXTINF:-1 group-title="KOMPILASI",BT SPORT 1 
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/106
 
@@ -279,4 +282,11 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/133
 #EXTINF:-1 group-title="KOMPILASI",DISCOVERY CHANNEL
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
 
+#EXTINF:-1 group-title="KOMPILASI",CLUBBING TV MUSIC
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="KOMPILASI",VEVO R&B 
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",K-POP RIE 
+https://srv1.zcast.com.br/kpoptv/kpoptv/index.m3u8
