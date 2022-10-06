@@ -52,16 +52,19 @@ http://mohtarif.online:5555/hashim111/hashim111/39427?token=HxpcVkcJFg4RUQBaBFcL
 http://210.210.155.35/session/94ee6302-7ee3-11ea-9585-c81f66f89318/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TV ONE RIE 
-http://210.210.155.35/session/e65beb76-ce7c-11eb-82e0-c81f66f89318/qwr9ew/s/s105/01.m3u8
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TV ONE 2 RIE
-http://210.210.155.37/qwr9ew/s/s105/01.m3u8
-
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS RIE
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS 1 RIE
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",KOMPAS 2 RIE
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV RIE
 http://210.210.155.35/session/9940309a-62c0-11eb-964d-912c89b3e225/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV 2 RIE
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INEWS RIE
 http://103.120.207.17:25461/live/gremlins59/8898/1336.ts?token=TBpYVERRRFhGAldRVA8PBQsEUAFSV1dUUw9VAgIFDwEFWlENBgEHAwUTGRdBTERRWFhuUAVGDgFRCwEeEkJFUUVnWVEVA0RVUgkCFx4aQl1UUBMDUFICBVIKAQMJABoWR1FUFw0bV1ddAQMXHhpTTE1QQ1cACGtUB05eUVUVDFpCVFwZFVYIPQBUWFRcXBQOGwUTFUMNR0BAAllHXFsaFlVRREdWTQNAXhMBBwEIFBgbVl5MDxBGSUACFXt0FRoWUkBEUFlKDw0KEw8XRksUGBtcQmYTAUdEEF1WX1VFFA4VCBIZFVQHGjtSWltcXVVAUFpfSkNeFgJAFBVfX1lfQFhKb0VeXURYRgUHDQMLFEk=
@@ -69,17 +72,32 @@ http://103.120.207.17:25461/live/gremlins59/8898/1336.ts?token=TBpYVERRRFhGAldRV
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV RIE
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV 2 RIE
+http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS TV RIE
 https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 RIE
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV RIE
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 1 RIE
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 2 RIE
 http://210.210.155.35/session/fc1231f4-4523-11ed-b86e-b82a72d63267/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",POP MUSIC DENS
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",POP MUSIC RIE
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TVRI NASIONAL RIE
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNBC RIE
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN RIE
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="KOMPILASI", Usee Photo(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
