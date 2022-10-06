@@ -264,6 +264,9 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/106
 #EXTINF:-1 group-title="KOMPILASI",BT SPORT 2
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/109
 
+#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT EXTRA RIE
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
 #EXTINF:-1 group-title="KOMPILASI",BT SPORT 3
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/142
 
@@ -290,3 +293,12 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b
 
 #EXTINF:-1 group-title="KOMPILASI",K-POP RIE 
 https://srv1.zcast.com.br/kpoptv/kpoptv/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",MTV HITS RIE
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",MTV 80'S 1
+http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",MTV 80'S 2
+http://38.143.137.221:8000/LA48/index.m3u8
