@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR VIDEOHD RIE
+http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR HD RIE 
 http://mohtarif.online:5555/hashim111/hashim111/39427?token=HxpcVkcJFg4RUQBaBFcLVQ5XBA8CW1NXUAdTUAUCBlBdDwQPAFEFVQJAT0BDEUtRWQhtXlYbDwFYB1MBHRNAFwFKa15QQw4WAFZRWgBHFRZMDF9SEAMEBFcGUQQECAdVSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
@@ -65,3 +67,66 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/magnatv.png" group-title="KOMPILASI",Magna TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="KOMPILASI",DIGIONE MAXstream(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="KOMPILASI", JTV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ruangterampil.png" group-title="KOMPILASI", Ruang Trampil(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="KOMPILASI", UseePrime(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="KOMPILASI",JAK TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="KOMPILASI",RODJA TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="KOMPILASI", MTA TV(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",TV Edukasi(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",The Indonesia Channel(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",IMC
+https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612
+
+#EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
+http://tv.zonanime.my.id/vidio/citradrama.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",SEA Today(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",PRAMBORS TV
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1157 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",ASTRO RANIA
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37467 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="OLAH RAGA",Champions 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",CITRA DANGDUT
+http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
+http://tv.zonanime.my.id/vidio/citradrama.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",CITRA BIOSKOP
+http://tv.zonanime.my.id/vidio/citradangdut.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",CITRA ENTERTAINMENT
+http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",Kplus(telkom)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI",MENTARI TV
+https://live-production.secureswiftcontent.com/exp=1665039623~acl=/hls-p/ingest_8237_*/*~hmac=2e819702474b6bc89fb31acd75ad30054850a731910862a2a1825ecaa8f32c27/hls-p/ingest_8237_720p/index.m3u8
