@@ -3,14 +3,26 @@
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",TARZAN BOY - BALTIMORA
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1986/073%20-%20Baltimora%20-%20Tarzan%20Boy.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",GIRL YOU KNOW IT'S TRUE - MILLI VANILLI
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/008%20-%20Milli%20Vanilli%20-%20Girl%20You%20Know%20It's%20True.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",DON'T WANNA LOSE YOU NOW - GLORIA ESTEFAN 
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/014%20-%20Gloria%20Estefan%20&%20Miami%20Sound%20Machine%20-%20Don't%20Wanna%20Los.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",BILIJEAN - MICHAEL JACKSON
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/001)%20Michael%20Jackson%20-%20Billie%20Jean%20%5bMarch%201983%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I'M GONNA MISS YOU - MILLI VANILLI
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/016%20-%20Milli%20Vanilli%20-%20I'm%20Gonna%20Miss%20You.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",TAKE ON ME - AHA
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/002)%20A%20Ha%20-%20Take%20On%20Me%20%5bOctober%201985%5d.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",BEAT IT - MICHAEL JACKSON
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/005)%20Michael%20Jackson%20-%20Beat%20It%20%5bMay%201983%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",LISTEN TO YOU HEART - ROXETTE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/022%20-%20Roxette%20-%20Listen%20To%20Your%20Heart.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",LIKE A VIRGIN - MADONNA
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/013)%20Madonna%20-%20Like%20A%20Virgin%20%5bJanuary%201985%5d.mp3
@@ -21,11 +33,17 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/01
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",TIME AFTER TIME - CINDY LAUPER
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/039)%20Cyndi%20Lauper%20-%20Time%20After%20Time%20%5bJune%201984%5d.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I'LL BE THERE FOR YOU - BON JOVI
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/023%20-%20Bon%20Jovi%20-%20I'll%20Be%20There%20For%20You.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",OWNER FO LONELY HEART - YES
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/043)%20Yes%20-%20Owner%20Of%20A%20Lonely%20Heart%20%5bJanuary%201984%5d.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",I WANT TO KNOW WHAT LOVE IS - FOREIGNER
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/049)%20Foreigner%20-%20I%20Want%20To%20Know%20What%20Love%20Is%20%5bFebruary%201985%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BABY DON'T FORGET MY NUMBER - MILLI VANILLI
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/028%20-%20Milli%20Vanilli%20-%20Baby%20Don't%20Forget%20My%20Number.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",WAKE ME UP BEFORE YOU GO GO - WHAM
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/052)%20Wham!%20-%20Wake%20Me%20Up%20Before%20You%20Go%20Go%20%5bNovember%201984%5d.mp3
@@ -33,35 +51,95 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/05
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",ONE MORE NIGHT - PHIL COLLINS
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/054)%20Phil%20Collins%20-%20One%20More%20Night%20%5bApril%201985%5d.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",IT MUST HAVE BEEN LOVE - ROXETTE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/017%20-%20Roxette%20-%20It%20Must%20Have%20Been%20Love%20(1990).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WHEN I SEE YOU SMILE - BAD ENGLISH
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/034%20-%20Bad%20English%20-%20When%20I%20See%20You%20Smile.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",CAN'T FIGHT THIS FEELING - REO SPEEDWAGON
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/064)%20REO%20Speedwagon%20-%20Can't%20Fight%20This%20Feeling%20%5bMarch%201985%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",ONE SWEET DAY - MARIAH CAREY & BOYZ 2 MEN
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/019%20-%20Mariah%20Carey%20&%20Boyz%20II%20Men%20-%20One%20Sweet%20Day%20(1996).mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",99 LUFTBALOONS - NENA
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/069)%20Nena%20-%2099%20Luftballoons%20%5bMarch%201984%5d.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES", YOU'RE STILL THE ONE - SHANIA TWAIN
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/029%20-%20Shania%20Twain%20-%20You're%20Still%20The%20One%20(1998).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WHEN THE CHILDREN CRY - WHITE LION
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/060%20-%20White%20Lion%20-%20When%20the%20Children%20Cry.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",TAKE MY BREATH AWAY - BERLIN
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/074)%20Berlin%20-%20Take%20My%20Breath%20Away%20%5bSeptember%201986%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BECAUSE YOU LOVE ME - CELINE DION
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/027%20-%20Celine%20Dion%20-%20Because%20You%20Loved%20Me%20(1996).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",MISS YOU LIKE CRAZY -  NATALIE COLE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/067%20-%20Natalie%20Cole%20-%20Miss%20You%20Like%20Crazy.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",UNBREAK MY HEART - TONY BRAXTON
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/034%20-%20Toni%20Braxton%20-%20Unbreak%20My%20Heart%20(1997).mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",EBONY AND IVORY - PAUL MCCARTNEY & STEVIE WONDER
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/082)%20Paul%20McCartney%20&%20Stevie%20Wonder%20-%20Ebony%20And%20Ivory%20%5bJune.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",HERO - MARIAH CAREY
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/036%20-%20Mariah%20Carey%20-%20Hero%20(1993).mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",ENDLESS LOVE - DIANA ROSS & LIONEL RICHIE
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/089)%20Diana%20Ross%20&%20Lionel%20Richie%20-%20Endless%20Love%20%5bSeptember%201981%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I REMEMBER YOU - MADONNA
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/085%20-%20Madonna%20-%20I'll%20Remember%20(1994).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",THE POWER OF LOVE - CELINE DION
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/038%20-%20Celine%20Dion%20-%20Power%20Of%20Love%20(1994).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",THE SIGN - ACE OF BASE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/005%20-%20Ace%20of%20Base%20-%20The%20Sign%20(1994).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",HOW DO I LIVE - LEANN RIMES
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/048%20-%20Leann%20Rimes%20-%20How%20Do%20I%20Live%20(1998).mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",LADY - KENNY ROGERS
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/003%20-%20Kenny%20Rogers%20-%20Lady.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",EVERYTHING I DO - BRYAN ADAMS
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/007%20-%20Bryan%20Adams%20-%20Everything%20I%20Do,%20I%20Do%20It%20For%20You%20(1991).Mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",JHON LENNON
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/021%20-%20John%20Lennon%20-%20Woman.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",DON'T TURN AROUND - ACE OF BASE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/058%20-%20Ace%20Of%20Base%20-%20Don't%20Turn%20Around%20(1994).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",CANDLE AND THE WIND - ELTON JHON
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/009%20-%20Elton%20John%20-%20Candle%20In%20The%20Wind%20'97%20(1997).mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",WINNER TAKES IT ALL - ABBA
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/023%20-%20Abba%20-%20Winner%20Takes%20It%20All,%20the.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",ANOTHE DAY IN PARADISE - PHIL COLLINS
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/066%20-%20Phil%20Collins%20-%20Another%20Day%20In%20Paradise%20(1990).mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",MORE THAN I CAN SAY - LEO SLAYER
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/052%20-%20Leo%20Sayer%20-%20More%20Than%20I%20Can%20Say.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",ALL THAT SHE WANTS - ACE OF BASE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/012%20-%20Ace%20of%20Base%20-%20All%20That%20She%20Wants%20(1993).mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",DUDUDU DADADA - THE POLICE
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/057%20-%20Police%20-%20De%20Do%20Do%20Do,%20De%20Da%20Da%20Da.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I SWEAR - ALL 4 ONE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/014%20-%20All%204%20One%20-%20I%20Swear%20(1994).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BLAZE OF GLORY - BON JOVI
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/097%20-%20Jon%20Bon%20Jovi%20-%20Blaze%20Of%20Glory%20(1990).mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",HARD TO SAY I'M SORRY - CHICAGO
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1982/010%20-%20Chicago%20-%20Hard%20To%20Say%20I'm%20Sorry.mp3
@@ -155,5 +233,8 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1988/019%20-%20Def%20Leppard%20-%20P
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",ONE MOMENT IN TIME - WHITNEY HOUSTEN
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1988/089%20-%20Whitney%20Houston%20-%20One%20Moment%20In%20Time.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",RIGHT HERE WAITING - RICHARD MARX
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/011%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting.mp3
 
 
