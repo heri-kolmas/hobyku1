@@ -96,6 +96,9 @@ http://rr.dens.tv/h/h191/index.m3u8 |User-Agent=Lavf/56.15.102
 #EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/680 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",SPACETOON
+https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",HITS MOVIES RIE
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/51 |User-Agent=Lavf/56.15.102
 
@@ -182,6 +185,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 
 #EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",CINEMA WORLD
+http://210.210.155.35/dr9445/h/h04/01.m3u8 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",CINEMA ASIA
+http://210.210.155.35/x6bnqe/h/h193/index.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",THRILL
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/4 |User-Agent=Lavf/56.15.102
@@ -320,3 +329,6 @@ http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8 |User-Agent=Lavf/56.15.
 
 #EXTINF:-1 group-title="KOMPILASI",MTV 80'S 2
 http://38.143.137.221:8000/LA48/index.m3u8 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",SPIRIT TV MUSIC 
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v3a1/mono.m3u8 |User-Agent=Lavf/56.15.102
