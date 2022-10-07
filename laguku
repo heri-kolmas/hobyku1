@@ -1,10 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BILIJEAN 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BILIJEAN - MICHAEL JACKSON
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/001)%20Michael%20Jackson%20-%20Billie%20Jean%20%5bMarch%201983%5d.mp3
 
-#EXTINF:-1  tvg-logo=" " group-title="OLDIES",TAKE ON ME 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",TAKE ON ME - AHA
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/002)%20A%20Ha%20-%20Take%20On%20Me%20%5bOctober%201985%5d.mp3
 
-#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BEAT IT
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BEAT IT - MICHAEL JACKSON
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/005)%20Michael%20Jackson%20-%20Beat%20It%20%5bMay%201983%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",LIKE A VIRGIN - MADONNA
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/013)%20Madonna%20-%20Like%20A%20Virgin%20%5bJanuary%201985%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",THRILLER - MICHAEL JACKSON
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/015)%20Michael%20Jackson%20-%20Thriller%20%5bFebruary%201984%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",TIME AFTER TIME - CINDY LAUPER
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/039)%20Cyndi%20Lauper%20-%20Time%20After%20Time%20%5bJune%201984%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",OWNER FO LONELY HEART - YES
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/043)%20Yes%20-%20Owner%20Of%20A%20Lonely%20Heart%20%5bJanuary%201984%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I WANT TO KNOW WHAT LOVE IS - FOREIGNER
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/049)%20Foreigner%20-%20I%20Want%20To%20Know%20What%20Love%20Is%20%5bFebruary%201985%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WAKE ME UP BEFORE YOU GO GO - WHAM
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/052)%20Wham!%20-%20Wake%20Me%20Up%20Before%20You%20Go%20Go%20%5bNovember%201984%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",ONE MORE NIGHT - PHIL COLLINS
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/054)%20Phil%20Collins%20-%20One%20More%20Night%20%5bApril%201985%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",CAN'T FIGHT THIS FEELING - REO SPEEDWAGON
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/064)%20REO%20Speedwagon%20-%20Can't%20Fight%20This%20Feeling%20%5bMarch%201985%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",99 LUFTBALOONS - NENA
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/069)%20Nena%20-%2099%20Luftballoons%20%5bMarch%201984%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",TAKE MY BREATH AWAY - BERLIN
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/074)%20Berlin%20-%20Take%20My%20Breath%20Away%20%5bSeptember%201986%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",EBONY AND IVORY - PAUL MCCARTNEY & STEVIE WONDER
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/082)%20Paul%20McCartney%20&%20Stevie%20Wonder%20-%20Ebony%20And%20Ivory%20%5bJune.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",ENDLESS LOVE - DIANA ROSS & LIONEL RICHIE
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/089)%20Diana%20Ross%20&%20Lionel%20Richie%20-%20Endless%20Love%20%5bSeptember%201981%5d.mp3
