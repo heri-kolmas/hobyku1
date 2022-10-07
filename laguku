@@ -3,6 +3,9 @@
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",TARZAN BOY (BALTIMORA)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1986/073%20-%20Baltimora%20-%20Tarzan%20Boy.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",BABY BABY (AMY GRANT)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201991/91_10_Amy_Grant_-_Baby_Baby.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",GIRL YOU KNOW IT'S TRUE (MILLI VANILLI)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/008%20-%20Milli%20Vanilli%20-%20Girl%20You%20Know%20It's%20True.mp3
 
@@ -27,6 +30,9 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/022%20-%20Roxette%20-%20Listen%
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",LIKE A VIRGIN (MADONNA)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/013)%20Madonna%20-%20Like%20A%20Virgin%20%5bJanuary%201985%5d.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",MORE THAN WORDS (EXTREME)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201991/91_07_Extreme_-_More_Than_Words.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",THRILLER (MICHAEL JACKSON)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/015)%20Michael%20Jackson%20-%20Thriller%20%5bFebruary%201984%5d.mp3
 
@@ -41,6 +47,9 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/04
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",I WANT TO KNOW WHAT LOVE IS (FOREIGNER)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Hits%20of%20the%2080s/049)%20Foreigner%20-%20I%20Want%20To%20Know%20What%20Love%20Is%20%5bFebruary%201985%5d.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",EMOTIONS (MARIAH CAREY)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201991/91_22_Mariah_Carey_-_Emotions.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",BABY DON'T FORGET MY NUMBER (MILLI VANILLI)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/028%20-%20Milli%20Vanilli%20-%20Baby%20Don't%20Forget%20My%20Number.mp3
@@ -102,14 +111,29 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%209
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",THE SIGN (ACE OF BASE)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/005%20-%20Ace%20of%20Base%20-%20The%20Sign%20(1994).mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WIND OF CHANGE (SCORPIONS)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201991/91_39_Scorpions_-_Wind_Of_Change.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",HOW DO I LIVE (LEANN RIMES)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/048%20-%20Leann%20Rimes%20-%20How%20Do%20I%20Live%20(1998).mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",LOVE OF A LIFETIME (FIREHOUSE)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201991/91_43_Firehouse_-_Love_Of_A_Lifetime.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",LADY (KENNY ROGERS)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/003%20-%20Kenny%20Rogers%20-%20Lady.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",EVERYTHING I DO (BRYAN ADAMS)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/007%20-%20Bryan%20Adams%20-%20Everything%20I%20Do,%20I%20Do%20It%20For%20You%20(1991).Mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I'LL BE THERE (MARIAH CAREY)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201992/92_16%20Mariah%20Carey%20-%20Ill%20Be%20There.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WHEN A MAN LOVES WOMAN (MICHAEL BOLTON)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201992/92_54%20Michael%20Bolton%20-%20When%20A%20Man%20Loves%20A%20Woman.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",HAZARD (RICHARD MARX)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201992/92_56%20Richard%20Marx%20-%20Hazard.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",WOMAN (JHON LENNON)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/021%20-%20John%20Lennon%20-%20Woman.mp3
@@ -123,11 +147,17 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%209
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",WINNER TAKES IT ALL (ABBA)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/023%20-%20Abba%20-%20Winner%20Takes%20It%20All,%20the.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",EVERYTHINK ABOUT YOU (UGLY KID JOE)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201992/92_72%20Ugly%20Kid%20Joe%20-%20Everything%20About%20You.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",ANOTHE DAY IN PARADISE (PHIL COLLINS)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/066%20-%20Phil%20Collins%20-%20Another%20Day%20In%20Paradise%20(1990).mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",MORE THAN I CAN SAY (LEO SLAYER)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1981/052%20-%20Leo%20Sayer%20-%20More%20Than%20I%20Can%20Say.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WHEN I LOOK INTO YOUR EYES (FIREHOUSE)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201992/92_82%20Firehouse%20-%20When%20I%20Look%20Into%20Your%20Eyes.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",ALL THAT SHE WANTS (ACE OF BASE)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Billboard%20Top%20100%20of%20the%2090's/012%20-%20Ace%20of%20Base%20-%20All%20That%20She%20Wants%20(1993).mp3
@@ -177,8 +207,17 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/012%20-%20Phil%20Collins%20&%20
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",CHERISH (KOOL & THE GANG)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/017%20-%20Kool%20&%20the%20Gang%20-%20Cherish.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",SAD I LOVED YOU BUT I LIED (MICHAEL BOLTON)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201994/94_32%20Michael%20Bolton%20-%20Said%20I%20Loved%20You%20.%20.%20.%20But%20I%20Lied.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",WEA ARE THE WORLD (USA FOR AFRICA)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/020%20-%20Usa%20For%20Africa%20-%20We%20Are%20the%20World.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",ALL FOR LOVE (BRYAN ADAMS & STING & ROD STEWART)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201994/94_08%20Bryan%20Adams,%20Sting%20&%20Rod%20Stewart%20-%20All%20For%20Love.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WITHOUT YOU (MARIAH CAREY)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201994/94_16%20Mariah%20Carey%20-%20Without%20You.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",PART TIME A LOVER (STEVIE WONDER)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/022%20-%20Stevie%20Wonder%20-%20Part-time%20Lover.mp3
@@ -186,14 +225,26 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/022%20-%20Stevie%20Wonder%20-%2
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",SAVING ALL MY LOVE FOR YOU (WHITNEY HOUSTEN)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/023%20-%20Whitney%20Houston%20-%20Saving%20All%20My%20Love%20For%20You.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",NOW AND FOREVER (RICHARD MARX)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201994/94_25%20Richard%20Marx%20-%20Now%20And%20Forever.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",HEAVEN (BRYAN ADAMS)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/024%20-%20Bryan%20Adams%20-%20Heaven.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",CAN YOU FEEL THE LOVE TONIGHT (ELTON JHON)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201994/94_18%20Elton%20John%20-%20Can%20You%20Feel%20The%20Love%20Tonight.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",A VIEW TO A KILL (DURAN DURAN)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/035%20-%20Duran%20Duran%20-%20a%20View%20To%20a%20Kill.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",PLEASE FORGIVE ME (BRYAN ADAMS)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201994/94_27%20Bryan%20Adams%20-%20Please%20Forgive%20Me.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",YOUR THE INSPIRATION (CHICAGO)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/037%20-%20Chicago%20-%20You're%20the%20Inspiration.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",ALWAYS (BON JOVI)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201994/94_91%20Bon%20Jovi%20-%20Always.mp3
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",SUDDENLY (BILLY OCEAN)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/052%20-%20Billy%20Ocean%20-%20Suddenly.mp3
@@ -207,6 +258,9 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/072%20-%20Paul%20Mccartney%20-%
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",FREEDOM (WHAM)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1985/076%20-%20Wham%20-%20Freedom.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I LIVE MY LOVE FOR YOU (FIREHOUSE)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201995/95_37%20Firehouse%20-%20I%20Live%20My%20Life%20For%20You.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",THAT'S WHAT FRIEND ARE FOR (DIONNE WARWICK)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1986/001%20-%20Dionne%20Warwick%20&%20Friends%20-%20That's%20What%20Friends%20Are%20For.mp3
 
@@ -218,6 +272,10 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1986/011%20-%20Whitney%20Houston%20-
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",GLORY AF LOVE (PETER CARERA)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1986/014%20-%20Peter%20Cetera%20-%20Glory%20of%20Love.mp3
+
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",YOU ARE NOT ALONE (MICHAEL JACKSON)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20-%201995/95_45%20Michael%20Jackson%20-%20You%20Are%20Not%20Alone.mp3
+
 
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",YOU GIVE LOVE A BAD NAME (BON JOVI)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1986/030%20-%20Bon%20Jovi%20-%20You%20Give%20Love%20a%20Bad%20Name.mp3
@@ -237,5 +295,6 @@ http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1988/089%20-%20Whitney%20Houston%20-
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",RIGHT HERE WAITING (RICHARD MARX)
 http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/1989/011%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting.mp3
 
-
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",WHEN YOU BEALIVE (MARIAH CAREY & WHITNEY HOUSTEN)
+http://65.186.78.52/MUSIC/ORIG/T/Top%20Hits/Top%20100%20Billboard%201999%20+%2055%20Charts%20%5b@192%5d%20%5bGalahad68%5d/099%20-%20Mariah%20Carey%20&%20Whitney%20Houston%20-%20When%20You%20Believe.MP3
 
