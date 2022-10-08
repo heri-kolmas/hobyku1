@@ -36,6 +36,9 @@ http://tokopsa.com:100/MUSIC/Lobo%20-%20I'd%20Love%20You%20To%20Want%20Me.mp3
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",FROZEN (MADONNA)
 http://tokopsa.com:100/MUSIC/Madonna%20-%20Frozen.mp3
 
+#EXTINF:-1  tvg-logo=" " group-title="OLDIES",I'M WITH YOU (AVRIL LAVIGNE)
+http://tokopsa.com:100/MUSIC/Avril%20Lavigne%20-%20I'm%20with%20You.mp3
+
 #EXTINF:-1  tvg-logo=" " group-title="OLDIES",KNIFE (ROCKWELL)
 http://tokopsa.com:100/MUSIC/Rockwell%20-%20Knife.mp3
 
