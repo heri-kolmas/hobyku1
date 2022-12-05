@@ -54,17 +54,14 @@ http://210.210.155.37/qwr9ew/s/s07/index1.m3u8 |User-Agent=Lavf/56.15.102
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV 2 RIE
 http://45.126.83.51/qwr9ew/s/s07/01.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS HD RIE
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/15 |User-Agent=Lavf/56.15.102
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS RIE
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1561775419_b744100_sleng.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS TV RIE
-https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 HD RIE
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/14 |User-Agent=Lavf/56.15.102
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",GARUDA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 RIE
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 |User-Agent=Lavf/56.15.102
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1569758602_b744100_sleng.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV HD RIE
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/03 |User-Agent=Lavf/56.15.102
@@ -123,6 +120,9 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/75 |User-Agent=Lavf/56.15.1
 #EXTINF:-1 group-title="KOMPILASI",DAAI TV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/05 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",ANIPLUS
+http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8 |User-Agent=Lavf/56.15.102
+
 #EXTINF:-1 group-title="KOMPILASI",TVRI
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/06 |User-Agent=Lavf/56.15.102
 
@@ -139,10 +139,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN INDONESIA RIE
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/22 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN RIE
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8 |User-Agent=Lavf/56.15.102
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1646502094_b384000_sleng.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="KOMPILASI", Usee Photo(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8 |User-Agent=Lavf/56.15.102
@@ -183,8 +180,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",The Indonesia Channel(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598 |User-Agent=Lavf/56.15.102
+#EXTINF:-1 group-title="KOMPILASI",HBO POP
+http://200.48.19.140:10021/play/a00v |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CINEMA WORLD
 http://210.210.155.35/dr9445/h/h04/01.m3u8 |User-Agent=Lavf/56.15.102
@@ -201,14 +198,17 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/5 |User-Agent=Lavf/56.15.1
 #EXTINF:-1 group-title="KOMPILASI",KIX
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",HBO (SD)
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26595 |User-Agent=Lavf/56.15.102
+#EXTINF:-1 group-title="KOMPILASI",HBO EXTREME
+http://200.48.19.140:10021/play/a00n |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",HBO HITS
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26596 |User-Agent=Lavf/56.15.102
+#EXTINF:-1 group-title="KOMPILASI",HBO
+http://200.48.19.140:10021/play/a01k
 
-#EXTINF:-1 group-title="KOMPILASI",HBO SIGNATURE
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26597 |User-Agent=Lavf/56.15.102
+#EXTINF:-1 group-title="KOMPILASI",HBO 2
+http://200.48.19.140:10021/play/a01r |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
+http://200.48.19.140:10021/play/a00m |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",GALAXY PREMIUM
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29603 |User-Agent=Lavf/56.15.102
@@ -235,7 +235,10 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37467 |User-Agent=Lavf/56.
 http://tv.zonanime.my.id/vidio/championstv1.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",SPOT TV
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/67 |User-Agent=Lavf/56.15.102
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 group-title="KOMPILASI",SPOT TV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CITRA DANGDUT
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8 |User-Agent=Lavf/56.15.102
@@ -315,8 +318,11 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/29 |User-Agent=Lavf/56.15.1
 #EXTINF:-1 group-title="KOMPILASI",CLUBBING TV MUSIC
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 group-title="KOMPILASI",VEVO 2K
+https://bit.ly/3NkcUoQ
+
 #EXTINF:-1 group-title="KOMPILASI",VEVO R&B 
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/b9c8b190e98b4556ad764a9eeeff4c4b/live.m3u8 |User-Agent=Lavf/56.15.102
+https://bit.ly/3RPleyX |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",K-POP RIE 
 https://srv1.zcast.com.br/kpoptv/kpoptv/index.m3u8 |User-Agent=Lavf/56.15.102
