@@ -3,8 +3,8 @@
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",RCTI RIE
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016574 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR VIDEOHD RIE
-http://tv.zonanime.my.id/vidio/indosiar.m3u8 |User-Agent=Lavf/56.15.102
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR ANALOG RIE
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR HD RIE 
 http://mohtarif.online:5555/hashim111/hashim111/39427?token=HxpcVkcJFg4RUQBaBFcLVQ5XBA8CW1NXUAdTUAUCBlBdDwQPAFEFVQJAT0BDEUtRWQhtXlYbDwFYB1MBHRNAFwFKa15QQw4WAFZRWgBHFRZMDF9SEAMEBFcGUQQECAdVSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8= |User-Agent=Lavf/56.15.102
@@ -183,11 +183,17 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-48
 #EXTINF:-1 group-title="KOMPILASI",HBO POP
 http://200.48.19.140:10021/play/a00v |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",CINEMA WORLD
-http://210.210.155.35/dr9445/h/h04/01.m3u8 |User-Agent=Lavf/56.15.102
+#EXTINF:-1 group-title="KOMPILASI",MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CINEMA ASIA
-http://210.210.155.35/x6bnqe/h/h193/index.m3u8 |User-Agent=Lavf/56.15.102
+http://210.210.155.37/uq2663/h/h193/index.m3u8 |User-Agent=Lavf/56.15.102
+
+#EXTINF:-1 tvg-logo="" group-title="KOMPILASI",MY CINEMA EUROPE RIE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KOMPILASI",MY FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",THRILL
 http://rr2.dens.tv/s/s34/index.m3u8 |User-Agent=Lavf/56.15.102
