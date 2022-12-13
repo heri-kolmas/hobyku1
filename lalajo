@@ -3,6 +3,9 @@
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",RCTI RIE
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016574 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bein sports" tvg-logo="" group-title="KOMPILASI",BEIN SPORT
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=1049162&extension=ts&play_token=Aq4rgFJvqq
+
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR ANALOG RIE
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8 |User-Agent=Lavf/56.15.102
 
