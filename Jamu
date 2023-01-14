@@ -66,9 +66,6 @@ http://210.210.155.35/session/9940309a-62c0-11eb-964d-912c89b3e225/qwr9ew/s/s03/
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",SCTV 2 RIE
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INEWS RIE
-http://103.120.207.17:25461/live/gremlins59/8898/1336.ts?token=TBpYVERRRFhGAldRVA8PBQsEUAFSV1dUUw9VAgIFDwEFWlENBgEHAwUTGRdBTERRWFhuUAVGDgFRCwEeEkJFUUVnWVEVA0RVUgkCFx4aQl1UUBMDUFICBVIKAQMJABoWR1FUFw0bV1ddAQMXHhpTTE1QQ1cACGtUB05eUVUVDFpCVFwZFVYIPQBUWFRcXBQOGwUTFUMNR0BAAllHXFsaFlVRREdWTQNAXhMBBwEIFBgbVl5MDxBGSUACFXt0FRoWUkBEUFlKDw0KEw8XRksUGBtcQmYTAUdEEF1WX1VFFA4VCBIZFVQHGjtSWltcXVVAUFpfSkNeFgJAFBVfX1lfQFhKb0VeXURYRgUHDQMLFEk=
-
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",ANTV RIE
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
@@ -76,10 +73,10 @@ http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 http://45.126.83.51/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS TV RIE
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1561775419_b744100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2006564950_b744100_sleng.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TRANS 7 RIE
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1569758602_b744100_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w443776990_b744100_sleng.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 1 RIE
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
@@ -214,8 +211,8 @@ https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016577 |Use
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016580 |User-Agent=Lavf/56.15.102
 http://tvlive.my.id:25461/kevin/kevin/18 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",K+
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8 |User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="KOMPILASI", K+
+http://210.210.155.35:80/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",CINEMAX
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
@@ -268,8 +265,8 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/680 |User-Agent=Lavf/56.15
 #EXTINF:-1 group-title="KOMPILASI",NICKELODEON
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/38 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",TVN MOVIES
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/70 |User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="KOMPILASI", TVN MOVIES
+http://210.210.155.35:80/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
 http://tv.zonanime.my.id/vidio/citradrama.m3u8 |User-Agent=Lavf/56.15.102
@@ -538,6 +535,12 @@ http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MAGNA TV 2
 http://tvlive.my.id:25461/mat/mat/26
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueant_big.png" group-title="KOMPILASI", Rock Ent
+http://210.210.155.35/dr9445/h/h16/01.m3u8 
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="KOMPILASI", Rock Action
+http://210.210.155.35/dr9445/h/h15/01.m3u8    
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oXhQvaqM2SJm6rogUAet2RJ0qj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-20fc6f.jpg" group-title="LOKAL",  NHK Newsline _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
 
@@ -595,12 +598,11 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BERITA SATU 2
 http://tvlive.my.id:25461/mat/mat/25
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",ARIRANG
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016964
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="KOMPILASI", CGTN Documentary
+http://210.210.155.37/qwr9ew/s/s20/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",ANIMAL PLANET
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016979
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZhyVmTZ/animlplnt.png" group-title="KOMPILASI", Animal Planet
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157532
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",NATIONAL GEOGRAPHIC 2
 http://tvlive.my.id:25461/mat/mat/71
@@ -641,8 +643,8 @@ https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019524
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",WILD
 https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046407
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MENTARITV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MENTARITV
+https://geocities.ws/ariev7xx/mentari.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MAX2U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
@@ -740,8 +742,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://ia903105.us.archive.org/14/items/CaliforniaMusicChannel/california%20music%20channel.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",KIX
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="KOMPILASI", Kix
+http://210.210.155.35:80/dr9445/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY CINEMA EUROPE
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016851
@@ -787,6 +789,9 @@ http://tvlive.my.id:25461/mat/mat/32
 
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SUPERSPORT LA LIGA
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="KOMPILASI", Nickelodeon
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157541
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",CITY TV
 http://tvlive.my.id:25461/mat/mat/42
@@ -1007,13 +1012,10 @@ http://playlist.urfan.web.id/dr9445/h/h14/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CELESTIAL MOVIES 2
 http://tvlive.my.id:25461/mat/mat/50
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",SINEMA INDONESIA 
-http://tvlive.my.id:25461/mat/mat/51
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT"Aniplus
 http://rr1.dens.tv/h/h02/index10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",SPACETOON
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",SPACETOON
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Rock Entertainment
@@ -1022,7 +1024,7 @@ https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017013
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ROCK EXTREME
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017014
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RADAR TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",RADAR TV
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",KAWANUA TV
@@ -1031,77 +1033,33 @@ http://122.248.43.138:1935/ch18/myStream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN
 http://tvlive.my.id:25461/mat/mat/49
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",TLC
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016981
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",BE SMART TV
 http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/165087?token=ShUNAEFcElxEW1IAXw9TVFlRAQBSVgMKAgYABlVWUwcHUVJUVwMFV1caGEZKTREDAFhpWAUVDwgABFNaAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAVVNWHRUVCFYWCkRVCAZSCBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggLUlZDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsNW1BSF0s=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Hits Movies
+http://rr1.dens.tv/h/h37/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN 2
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016982
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ONE
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016983
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GEM
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016984
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Hits
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016985
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Hits Movies HD
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016986
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Cartoon Network
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016988
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Warner TV
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016989
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",WARNER TV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1533
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CELESTIAL MOVIES
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Boomerang
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016990
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Celestial Movie
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Celestial Movie
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="FILM", ZEE Bioskop 
 http://rr2.dens.tv/s/s32/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="KOMPILASI", Rock Action
+http://210.210.155.35/dr9445/h/h15/01.m3u8    
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",ROCK TV
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177257
 
-#EXTINF:-1 group-title="FILM",CCM 
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+#EXTINF:-1 group-title="KOMPILASI",CCM 
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
 
-#EXTINF:-1 group-title="FILM",CCM 02
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429843
-
-#EXTINF:-1 group-title="OLAH RAGA",MMA TV 
-http://tvlive.my.id:25461/mat/mat/66
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",Pace Sport
-http://203.77.246.50:5000/udp/239.1.2.218:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Rock Ent HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Rock Ent HD
 http://203.77.246.50:5000/udp/239.1.2.220:5000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVN
 http://45.126.83.51/dr9445/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVN MOVIES
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/927
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVN MOVIES 2
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37376
 
 _____________ RADIO____________
 
