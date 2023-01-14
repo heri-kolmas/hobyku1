@@ -84,7 +84,7 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",NET TV 2 RIE
 http://210.210.155.35/session/fc1231f4-4523-11ed-b86e-b82a72d63267/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",POP MUSIC RIE
+#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",POP RIE
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TVRI NASIONAL RIE
@@ -211,56 +211,32 @@ https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016577 |Use
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016580 |User-Agent=Lavf/56.15.102
 http://tvlive.my.id:25461/kevin/kevin/18 |User-Agent=Lavf/56.15.102
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Always Funny Videos
+https://tinyurl.com/AMFVSS
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Paramount Movie Channel
+https://bit.ly/3QD0uKW
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Just For Laughs
+https://bit.ly/3yhvTLT
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Serial TV Mission: Impossible
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="KOMPILASI", K+
 http://210.210.155.35:80/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",CINEMAX
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
 
+#EXTINF:-1 group-title="KOMPILASI",HITS 
+http://rr1.dens.tv/h/h37/index.m3u8
+
 #EXTINF:-1 group-title="KOMPILASI",HITS MOVIE
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/99 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",THRILL
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/4 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",WARNER TV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1533 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",HBO FAMILY
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",HBO (HD)
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/210 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",HBO (SD)
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26595 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",HBO HITS
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26596 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",HBO SIGNATURE
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26597 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",GALAXY PREMIUM
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29603 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",GALAXY
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29604 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",DUNIA LAIN
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/910 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",FLIK
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29592 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",IMC
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35484 |User-Agent=Lavf/56.15.102
+http://rr1.dens.tv/h/h38/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",IMC 2
 https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",CARTOON NETWORK 
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/680 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",NICKELODEON
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/38 |User-Agent=Lavf/56.15.102
@@ -301,11 +277,64 @@ https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37422
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR 5
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1845 |User-Agent=Lavf/56.15.102
 
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Action
+https://bit.ly/39SoJ7h
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Horror
+https://bit.ly/3NjRho7
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Flicks of Fury
+https://bit.ly/3A0onWR
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",The Asylum
+https://bit.ly/3zZ96pm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Comedy
+https://bit.ly/3HPTypV
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Romance
+https://bit.ly/3OHnk2p
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Thrillers
+https://bit.ly/3bpnWvh
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Drama
+https://bit.ly/3tZ6cNr
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Fantastic
+https://bit.ly/3u1hD7A
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Cult Films
+https://bit.ly/3OGm0wr
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Terror
+https://bit.ly/3xOTa6o
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Reaction
+https://bit.ly/3eDoZJp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Staff Picks
+https://bit.ly/3BHXCap
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Crime Movies
+https://bit.ly/3qAyqfs
+
+
 #EXTINF:-1 group-title="KOMPILASI",MTV MUSIC
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/286 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CCM
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/5
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", 24 Hour Free Movies
+https://bit.ly/3dHN7dQ
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Action Movies
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Alter Horror
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
+
 
 #EXTINF:-1 group-title="OLAH RAGA",SPORTING TV
 http://45.92.69.72:8001/play/a02n
@@ -370,11 +399,8 @@ https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",BIOSKOP INDONESIA
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016891
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",THRILL
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016848
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",THRILL 2
-http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",THRILL
+http://rr2.dens.tv/s/s34/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CITRA BIOSKOP 02
 https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429900
@@ -745,17 +771,17 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="KOMPILASI", Kix
 http://210.210.155.35:80/dr9445/h/h07/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY CINEMA EUROPE
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MY CINEMA EUROPE
+http://rr.dens.tv/h/h18/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY CINEMA
-http://210.210.155.35/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MY CINEMA
+http://rr.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY CINEMA ASIA
-http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MY CINEMA ASIA
+http://rr.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY FAMILY CHANNEL
-http://210.210.155.37/uq2663/h/h194/index.m3u8
+http://rr.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NEW KID TV (KOREA)
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
@@ -862,8 +888,103 @@ http://mohtarif.online:5555/asim1234/123456/39444?token=HxpcVkcJFg4RU1BRBVxfV11U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CHINESE DRAMA
 http://tvlive.my.id:25461/mat/mat/62
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ZEE BIOSKOP
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",B. Kids
+https://bit.ly/3MIB23q
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", SuperToons TV
+https://tinyurl.com/SuperToons
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", HappyKids
+https://happykids-roku.amagi.tv/playlist404pl.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Toon Googles
+https://tinyurl.com/TiviMe-ToonGoogles
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/index.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Kids Pang TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JoNYGj1bF5swTq531QQg&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", TAYO TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Nick Pluto TV
+https://bit.ly/3Bwp9eR
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",  Nicj Jr. Pluto TV
+https://bit.ly/3QwSRoa
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Baby Shark TV
+https://bit.ly/3TYQJbS
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",  Pluto TV Kids
+https://bit.ly/3RUJhML
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Kids Movie Club
+https://bit.ly/3xbVZPs
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Kartoon Channel
+https://bit.ly/3B8sJdL
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", LEGO Kids Channel
+https://bit.ly/3cZ7Cm7
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Forever Kids
+https://bit.ly/3TXJz7C
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Totally Turtles
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Garfield & Friends
+https://bit.ly/3xbYSja
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Moonbug Kids
+https://bit.ly/3TXzQOD
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RetroCrush 1
+https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RetroCrush 2
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+
+EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Kids Station (Not 24/7)
+http://123.30.146.172:21585/502/index.m3u8
+https://cdn.us195.jpnettv.live/jptv/jkids_540/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Anime All Day
+https://bit.ly/39KU8Zz
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Anime All Ages
+https://bit.ly/3HVVQ72
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", CONtv
+https://contv-localnow.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", CONtv Anime
+https://contvanime-localnow.cinedigm.com/playlist.m3u8
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+
+EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", AT-X
+https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Naruto
+https://bit.ly/3RvST11
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", One Piece
+https://bit.ly/3RRQ2z7
+
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", TokuSHOUTsu
+https://bit.ly/3L4aMRP
 
 #EXTINF: -1 tvg-name="Paramount Channel" group-title="FILM",Paramount Channel
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019567
@@ -1345,8 +1466,8 @@ https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598045522
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="OLAH RAGA" tvg-logo="", Motorvision TV
 http://rr.dens.tv/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="FILM" tvg-logo="", KIX
-http://rr1.dens.tv/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOMPILASI" tvg-logo="", KIX
+http://rr1.dens.tv/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", Kids Channel - BABY TV
 https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602846998
@@ -1386,6 +1507,163 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 
 #EXTINF:-1 tvg-logo="https://themusicuniverse.com/wp-content/uploads/2013/03/vevotv.jpg" group-title="MUSIK",Pluto TV VEVO 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Now 80s
+https://bit.ly/3S2ZXT7
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Now 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Movie Hits
+https://bit.ly/3etlpS6
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV RockZone
+https://bit.ly/3RRSwO6
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Music
+https://bit.ly/3RzzKey
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV 
+https://bit.ly/3HMG7qJ
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Love Music
+https://bit.ly/3TXAifG
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Yo! MTV
+https://bit.ly/3d5VfVm
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Unplugged
+https://bit.ly/3DczYE3
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV 90s
+http://85.17.17.249/mtv_rocks/index.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Nick Music
+http://85.17.17.249/MTV_MUSIC/index.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",CMT Music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",  4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Loop 80's
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+
+EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Loop 90's
+https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Live Music Replay
+https://bit.ly/3L4Brhm
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '70s
+https://bit.ly/3OkyHxq
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '80s
+https://bit.ly/3OhWrCj
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '90s
+https://bit.ly/3GS5WFz
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '90s & '00s
+https://tinyurl.com/TiviMe-Vevo90s00s
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo 2K
+https://bit.ly/3NkcUoQ
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Vevo Retro Rock
+https://bit.ly/3GFqbpv
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Pop
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo R&B
+https://bit.ly/3RPleyX
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo True School Hip-Hop
+https://bit.ly/3AYTTDE
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Reggaeton & Trap
+https://bit.ly/3Ry03Si
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Latino
+https://bit.ly/3DdDrlO
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Country
+https://bit.ly/3BDpT1T
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", VH1 Classic
+https://bit.ly/3PTpq0A
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", New KPop
+https://tinyurl.com/TiviMe-NewKPop
+
+EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", The Edge
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE Hits
+https://tinyurl.com/TiviMe-XiteHits
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE 80s Flashback
+https://tinyurl.com/XITE80s
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE 90s Throwback
+https://tinyurl.com/XITE90ss
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE Rock On
+https://tinyurl.com/XiteRock
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE Just Chill
+https://tinyurl.com/XiteJTCL
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Flashback 70s
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Remember The '80s
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Nothin' But 90s
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray  Greatest Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Hit List
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIK",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
