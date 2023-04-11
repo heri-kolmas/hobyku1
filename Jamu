@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", MAKKAH TV
+http://210.210.155.35/session/85350a9a-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s28/index10.m3u8
+
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", THRILL
 http://210.210.155.35/session/a60fd144-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s34/index.m3u8
 
