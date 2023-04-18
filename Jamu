@@ -6,6 +6,9 @@ http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", LA LIGA
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
+
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", KAWANUA TV
 http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8
 
@@ -20,6 +23,12 @@ http://210.210.155.35/session/85350a9a-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s28/
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", THRILL
 http://210.210.155.35/session/a60fd144-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", CINEMA WORLD
+http://rr1.dens.tv/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", HITS MOVIE
+http://rr1.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", CELESTIAL MOVIES
 http://210.210.155.35/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
@@ -95,6 +104,18 @@ http://210.210.155.35/qwr9ew/s/s07/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", SCTV
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="INDO",Bein Premium 1 
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94496&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="INDO",Bein Premium 2 
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94492&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="INDO",Bein Premium 3
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94488&extension=ts&play_token=TQ6cftyhX8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
@@ -255,9 +276,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42
 #EXTINF:-1 group-title="KOMPILASI",KIX 
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",AXN 
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8 |User-Agent=Lavf/56.15.102
-
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR OK
 http://tvlive.my.id:25461/mat/mat/11|User-Agent=Lavf/56.15.102
 
@@ -317,33 +335,6 @@ http://210.210.155.35:80/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
 http://tv.zonanime.my.id/vidio/citradrama.m3u8 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",iKONSER
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29594 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",PRAMBORS TV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1157 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",ASTRO RANIA
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37467 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",ASTRO RIA
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37332 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",NAT GEO
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37389 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT PREMIUM 1
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/728
-
-#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT PREMIUM 2
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/729
-
-#EXTINF:-1 group-title="KOMPILASI",BEIN SPORT PREMIUM 3
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37433
-
-#EXTINF:-1 group-title="KOMPILASI",ASTRO ARENA (HD)
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37422
 
 #EXTINF:-1 group-title="KOMPILASI",INDOSIAR 5
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1845 |User-Agent=Lavf/56.15.102
@@ -769,68 +760,8 @@ http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NEW KID TV (KOREA)
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO
-http://203.77.246.50:5000/udp/239.1.3.84:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO FAMILY
-http://203.77.246.50:5000/udp/239.1.3.76:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO HITS
-http://203.77.246.50:5000/udp/239.1.3.82:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO HITS 2
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019508
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HITS BACKUP
-http://tvlive.my.id:25461/mat/mat/56
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",HBO SIGNATURE
-http://203.77.246.50:5000/udp/239.1.3.74:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FOX FAMILLY
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377334
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FOX ACTION
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/599377333
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA"ASTRO ARENA
-http://tvlive.my.id:25461/mat/mat/32
-
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SUPERSPORT LA LIGA
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nickelodeon_big.png" group-title="KOMPILASI", Nickelodeon
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157541
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",CITY TV
-http://tvlive.my.id:25461/mat/mat/42
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CINEMAX
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176920
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",SINETRON HUNGKUL
-http://188.241.218.10:8070/smumtazkhan/JXWYwkWb42QyLn8A/171984
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ASTRO RANIA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019571
-
-#EXTINF: -1 tvg-name="ASTRO Citra HD" group-title="FILM",ASTRO Citra HD
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019573
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",ASTRO PRIMA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019473
-
-#EXTINF: -1 tvg-name="Astro Aura HD" group-title="LOKAL",Astro Aura HD
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019572
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICK JR ID
-https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847044
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICK JR OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019533
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",TOONKIDS
-http://45.126.83.51/qwr9ew/s/s15/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ZOOMOO
 https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
@@ -847,23 +778,11 @@ https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019531
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",CARTOON NITO
 http://ku03.wanicelife.com:8880/12m0525/772229617/60410
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",NICKELDEON ID
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019532
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",INDI KIDS
-https://bit.ly/3yFZrlf
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",TRACKER TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176984
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",DENS SHOWBIZ
 http://210.210.155.35/session/9d61a5cc-225c-11eb-8016-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",FLIK 
 http://103.120.207.17:25461/live/gremlins59/8898/1378.ts?token=TBpYVERRRFhGBVcCAVoCA1wGAg9SVFJSAA8AClVVBwUOXQZQAAtTBFITGRdBTERRWFhuUAVGDgFRDw8eEkJFUUVnWVEVA0RVUgkCFx4aQl1UUBMDUFICA1YJAwcFDxoWR1FUFw0bV1RWBAwXHhpTTE1QQ1cACGtUB05eUVUVDFpCVFwZFVYIPQBUWFRcXBQOGwUTFUMNR0BAAllHXFsaFlVRREdWTQNAXhMEDQIOFBgbVl5MDxBGSUACFXt0FRoWUkBEUFlKDw0KEw8XRksUGBtcQmYTAUdEEF1WX1VFFA4VCBIZFVQHGjtSWltcXVVAUFpfSkNeFgJAFBVfX1lfQFhKb0VeXURYRgYFBwQaSw==
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",iKONSER 
-https://bit.ly/3aHduPC
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",GALAXY PREMIUM
 http://mohtarif.online:5555/asim1234/123456/39444?token=HxpcVkcJFg4RU1BRBVxfV11UUVVXDgBQUFUDVwVQBFIBCwJTDFZXVQJAT0BDEUtRWQhtXlYbDwFYB1MBHRNAFwFKa15QQw4WAFJQUQRHFRZMDF9SEAMEBFQEWQ4JAABcSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
@@ -883,9 +802,6 @@ https://happykids-roku.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", HappyKids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Toon Googles
-https://tinyurl.com/TiviMe-ToonGoogles
-
 #EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -901,38 +817,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playli
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Nick Pluto TV
-https://bit.ly/3Bwp9eR
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",  Nicj Jr. Pluto TV
-https://bit.ly/3QwSRoa
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Baby Shark TV
-https://bit.ly/3TYQJbS
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",  Pluto TV Kids
-https://bit.ly/3RUJhML
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Kids Movie Club
-https://bit.ly/3xbVZPs
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Kartoon Channel
-https://bit.ly/3B8sJdL
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", LEGO Kids Channel
-https://bit.ly/3cZ7Cm7
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Forever Kids
-https://bit.ly/3TXJz7C
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Totally Turtles
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Garfield & Friends
 https://bit.ly/3xbYSja
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Moonbug Kids
-https://bit.ly/3TXzQOD
 
 #EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RetroCrush 1
 https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
@@ -940,102 +829,20 @@ https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RetroCrush 2
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 
-#EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Kids Station (Not 24/7)
-http://123.30.146.172:21585/502/index.m3u8
-https://cdn.us195.jpnettv.live/jptv/jkids_540/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Anime All Day
-https://bit.ly/39KU8Zz
-
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Anime All Ages
-https://bit.ly/3HVVQ72
-
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", CONtv
 https://contv-localnow.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", CONtv Anime
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", AT-X
-https://sub2.neetball.net/live/neet.m3u8
-
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Naruto
-https://bit.ly/3RvST11
-
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", One Piece
-https://bit.ly/3RRQ2z7
-
-#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", TokuSHOUTsu
-https://bit.ly/3L4aMRP
-
-#EXTINF: -1 tvg-name="Paramount Channel" group-title="FILM",Paramount Channel
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019567
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",GALAXY
-https://nonton.site:8443/live/balubaid2/Erlangga2/29604.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CELESTIAL MOVIES OK
-http://tvlive.my.id:25461/mat/mat/50
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CELESTIAL MOVIES 2
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",BOOMERANG ID
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019563
-
-#EXTINF: -1 tvg-name="EUROSPORT HD" group-title="OLAH RAGA",EUROSPORT HD
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019551
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT 3 OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019550
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ELEVEN1 
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177129
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ELEVEN2
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177130
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",SPORT TV+2
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177136
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",ESPN U
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177145
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",BEIN SPORT 
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019549
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://i.ibb.co/X2Q7s2r/Wwe.png" group-title="OLAH RAGA",CHAMPION TV 1
-http://tvn.x10.mx/vidio/master-7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://i.ibb.co/X2Q7s2r/Wwe.png" group-title="OLAH RAGA",CHAMPION TV 2
-http://tvn.x10.mx/vidio/master-8.m3u8
-
-#EXTINF:-1 group-title="FILM" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik
-https://delivery.macan.network/stream/flik/playlist.m3u8?token=0t348&v=20200807
-
-#EXTINF:-1 tvg-id="" tvg-name="MY : ASTRO ARENA 1" tvg-logo="https://i.ibb.co/rbtX26N/Astro-arena-home-tv.png" group-title="OLAH RAGA",MY : ASTRO ARENA 1
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019548
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",MU TV
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598034645
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",SPOT 
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",SPOT 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",VARIETY 1
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598045520
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",THAI-PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",MOLA TV
-https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846042
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ACNA -TV
 http://rr.dens.tv/h/h29/index.m3u8
@@ -1058,57 +865,6 @@ http://rr.dens.tv/h/h19/index10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Gem tv 2
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TELENOVELLA
-https://m3u-editor.com/serve/bca93f60-0b62-11ed-a228-a32860182019/602847013
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",AXN
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",ONE
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/19
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",NET BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/78
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TV ONE BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",KOMPAS BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/30
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",ANTV BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/31
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",SCTV BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/32
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TRANS TV BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/34
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TRANS 7 BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVRI BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/36
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",CNN BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/44
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",NATIONAL GEOGRAFIC BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/96
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",NAT GRO WILD BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/97
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",PARAMOUNT BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",HITS MOVIE BACKUP
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/99
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AXN 2
-http://tvlive.my.id:25461/mat/mat/58
-
 #EXTINF:-1 tvg-id="FILM" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
 http://playlist.urfan.web.id/dr9445/h/h14/02.m3u8
 
@@ -1117,9 +873,6 @@ http://tvlive.my.id:25461/mat/mat/50
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT"Aniplus
 http://rr1.dens.tv/h/h02/index10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",SPACETOON
-https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",Rock Entertainment
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017013
@@ -1132,9 +885,6 @@ http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",KAWANUA TV
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVN
-http://tvlive.my.id:25461/mat/mat/49
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",BE SMART TV
 http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/165087?token=ShUNAEFcElxEW1IAXw9TVFlRAQBSVgMKAgYABlVWUwcHUVJUVwMFV1caGEZKTREDAFhpWAUVDwgABFNaAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAVVNWHRUVCFYWCkRVCAZSCBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggLUlZDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsNW1BSF0s=
@@ -1150,9 +900,6 @@ http://rr2.dens.tv/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="KOMPILASI", Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8    
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",ROCK TV
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595177257
 
 #EXTINF:-1 group-title="KOMPILASI",CCM 
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
