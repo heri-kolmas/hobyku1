@@ -126,9 +126,6 @@ https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 group-title="LOKAL",KOMPAS BACK
 https://video.jixie.media/live-test/kompastv.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="KOMPILASI", Adu Ayam
-https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
-
 #EXTINF:-1 group-title="KOMPILASI",ATV MOVIES
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29899 |User-Agent=Lavf/56.15.102
 
@@ -137,9 +134,6 @@ http://103.22.181.150:8095/nbatv/mpegts
 
 #EXTINF:-1 group-title="OLAH RAGA",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:-1 group-title="KOMPILASI",NET TV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/78 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",BOX OFFICE
 http://5gfksa.ltd:2052/991155/551199/126944 |User-Agent=Lavf/56.15.102
@@ -161,9 +155,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",MARVEL STUDIOS 2
 http://5gfksa.ltd:2052/991155/551199/126946
-
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR HD RIE 
-http://mohtarif.online:5555/hashim111/hashim111/39427?token=HxpcVkcJFg4RUQBaBFcLVQ5XBA8CW1NXUAdTUAUCBlBdDwQPAFEFVQJAT0BDEUtRWQhtXlYbDwFYB1MBHRNAFwFKa15QQw4WAFZRWgBHFRZMDF9SEAMEBFcGUQQECAdVSBpEXlBDDlpGDg9OEgBBQF0XXFZeZlFXF1oCUxMLWxEIVBgVWw9rUFYPAgxURwMWCUceFVtKRRBbXRRaXR0XBg1MRlZABBYOXRcPDhxHWltNC0ZFSxsPECh3QxoTVE0QAVZHXlsPFg4RFhBAHEdQR2cXV0RGS1BTDFYTFAsTBUZIGllWTD5XW10MBgFEDFZaS0cIFQMbGRAMXA9fRV5HOxRRUBUOD0FYXx8=
 
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",INDOSIAR 2 RIE
 http://210.210.155.35/session/94ee6302-7ee3-11ea-9585-c81f66f89318/qwr9ew/s/s04/02.m3u8
@@ -207,11 +198,8 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",TVRI NASIONAL RIE
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNBC RIE
+#EXTINF:-1  tvg-logo=" " group-title="INDO",CNBC RIE
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-
-#EXTINF:-1  tvg-logo=" " group-title="KOMPILASI",CNN RIE
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="KOMPILASI", Usee Photo(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
@@ -225,80 +213,41 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/magnatv.png" group-title="KOMPILASI",Magna TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="KOMPILASI",DIGIONE MAXstream(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="KOMPILASI",MAXstream Music(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="KOMPILASI", JTV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/90vK3R0z/iflix-shareext.png" group-title="KOMPILASI",iFLIX HORROR 
-http://5gfksa.ltd:2052/991155/551199/126962
-
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ruangterampil.png" group-title="KOMPILASI", Ruang Trampil(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="KOMPILASI", UseePrime(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-
-#EXTINF:-1 group-title="KOMPILASI",PARAMOUNT
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="KOMPILASI",JAK TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="KOMPILASI",RODJA TV(telkom)
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="INDO",RODJA TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="KOMPILASI", MTA TV(telkom)
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="INDO", MTA TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",Usee Prime(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",Usee Photo(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",TV Edukasi(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",The Indonesia Channel(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",SEA Today(telkom)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="INDO",SEA Today(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",Kplus(telkom)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
-
-#EXTINF:-1 group-title="KOMPILASI",KIX 
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/8 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",INDOSIAR OK
-http://tvlive.my.id:25461/mat/mat/11|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",CHAMPION TV1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",CHAMPION TV2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:-1 group-title="KOMPILASI",BEINS 3 
-http://topstb.com:8000/50656250782258/27115840859269/156443|User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",SCTV HD
+#EXTINF:-1 group-title="INDO",SCTV HD
 http://rr2.dens.tv/s/s03/index.m3u8 |User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="KOMPILASI",USEE PRIME
+#EXTINF:-1 group-title="INDO",USEE PRIME
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",USEE PHOTO
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",GTV OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016577 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Always Funny Videos
 https://tinyurl.com/AMFVSS
@@ -312,11 +261,8 @@ https://bit.ly/3yhvTLT
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Serial TV Mission: Impossible
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="KOMPILASI", K+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kplus_big1.png" group-title="INDO", K+
 http://210.210.155.35:80/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 group-title="KOMPILASI",CINEMAX
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
 
 #EXTINF:-1 group-title="KOMPILASI",HITS 
 http://rr1.dens.tv/h/h37/index.m3u8
@@ -324,20 +270,11 @@ http://rr1.dens.tv/h/h37/index.m3u8
 #EXTINF:-1 group-title="KOMPILASI",HITS MOVIE
 http://rr1.dens.tv/h/h38/index.m3u8
 
-#EXTINF:-1 group-title="KOMPILASI",IMC 2
-https://m3u-editor.com/serve/8f7d7f50-3343-11ed-a319-8174b8937637/638011612 |User-Agent=Lavf/56.15.102
-
 #EXTINF:-1 group-title="KOMPILASI",NICKELODEON
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/38 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_big.png" group-title="KOMPILASI", TVN MOVIES
 http://210.210.155.35:80/dr9445/h/h20/index.m3u8
-
-#EXTINF:-1 group-title="KOMPILASI",CITRA DRAMA
-http://tv.zonanime.my.id/vidio/citradrama.m3u8 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 group-title="KOMPILASI",INDOSIAR 5
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/1845 |User-Agent=Lavf/56.15.102
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI",Pluto TV Action
 https://bit.ly/39SoJ7h
@@ -381,7 +318,6 @@ https://bit.ly/3BHXCap
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Pluto TV Crime Movies
 https://bit.ly/3qAyqfs
 
-
 #EXTINF:-1 group-title="KOMPILASI",MTV MUSIC
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/286 |User-Agent=Lavf/56.15.102
 
@@ -397,341 +333,68 @@ http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Alter Horror
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
 
-
-#EXTINF:-1 group-title="OLAH RAGA",SPORTING TV
-http://45.92.69.72:8001/play/a02n
-
-#EXTINF:-1 group-title="OLAH RAGA",Champions 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
-#EXTINF:-1 group-title="OLAH RAGA",Champions 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-
-#EXTINF:-1 group-title="OLAH RAGA",Champions 3
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-
 #EXTINF:-1 group-title="OLAH RAGA",TNT SPORT
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 
-#EXTINF:-1 group-title="LOKAL",Citra Dangdut
-http://tvn.x10.mx/vidio/master-11.m3u8
-
-#EXTINF:-1 group-title="LOKAL",Indosiar
-http://tvn.x10.mx/vidio/master.m3u8
-
-#EXTINF:-1 group-title="LOKAL",Sctv 
-http://tvn.x10.mx/vidio/master-1.m3u8
-
-#EXTINF:-1 group-title="KOMPILASI",Citra Bioskop
-http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
-
-#EXTINF:-1 group-title="LOKAL",Citra Drama
-http://tvn.x10.mx/vidio/master-3.m3u8
-
-#EXTINF:-1 group-title="LOKAL",Citra Dangdut 2
-http://tv.zonanime.my.id/vidio/citradangdut.m3u8
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://web1.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg",KARAOKE BARAT
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",TLC
-https://m3u-editor.com/serve/79ddb4e0-0b62-11ed-ba03-1dd92b3fc214/602846442
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWS3-BCkH0Rs7MMIiog_Q-kVaSxvbFAWXXQ&usqp=CAU", Loop TV
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO TV
+#EXTINF:-1 group-title="INDO" tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO TV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="FILM",Pluto TV Thrillers
-https://bit.ly/3bpnWvh
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="FILM",Pluto TV Action
-https://bit.ly/39SoJ7h
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROB0zhy5zRU_3uqcFNtdz9HrqTpYw8VFTIVA&usqp=CAU" group-title="BEBENYIT",DUCK TV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",ASTRO CERIA
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176896
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",DUNIA LAIN
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016884
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",BIOSKOP INDONESIA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016891
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",THRILL
 http://rr2.dens.tv/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CITRA BIOSKOP 02
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429900
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",BAYWATCH
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d815eb889bca2ce7b746fdd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=142&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ADI-TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",ADI-TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",DTVI
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176991
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GARUDA TV
-https://ms.digdaya.tv/live/digdayatv/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JAWA POS TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",JAWA POS TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CITRA BIOSKOP
-https://m3u-editor.com/serve/a97b5390-16c2-11ed-9c2e-75195d5fa909/611900938
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RCTI 1
-http://tvlive.my.id:25461/kevin/kevin/5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RCTI 03
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429587
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RCTI 4
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016574
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",GTV NEW
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",HAPPY KID
-https://happykids-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GTV 03
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429591
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",GTV OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016577
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MNC TV
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016571
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MNC TV 1
-http://203.77.246.50:5000/udp/239.1.3.78:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MQTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INEWS
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016580
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INEWS NEW
-http://tvlive.my.id:25461/kevin/kevin/18
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INEWS 03
-https://m3u-editor.com/serve/6e29c8c0-1c4e-11ed-b125-c9fc4bd9520e/616429594
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",VISION PRIME
-https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037339
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TVONE 2
-http://tvlive.my.id:25461/mat/mat/7
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TVONE 3
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016971
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TVONE 4
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016635
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INDOSIAR 1
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016588
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",INDOSIAR LIGA
-http://tvlive.my.id:25461/mat/mat/11 |User-Agent=Lavf/56.15.102
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TRANS TV 2
-http://tvlive.my.id:25461/mat/mat/10
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SCTV 2
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016585
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SCTV 3
-http://tvlive.my.id:25461/mat/mat/13
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ANTV 2
-http://tvlive.my.id:25461/mat/mat/14
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ANTV 3
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016633
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ANTV 4
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Kompas TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",Kompas TV 2
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Kompas TV 3
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016603
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BRTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",BRTV
 https://e1.siar.us/badartv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",RTV 2
-http://tvlive.my.id:25461/mat/mat/17
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CNN
-https://m3u-editor.com/serve/196599e0-16c3-11ed-bbad-8fc60a765768/611901567
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CNN 2
-http://tvlive.my.id:25461/mat/mat/23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",MY KIDZ
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MAGNA TV 2
-http://tvlive.my.id:25461/mat/mat/26
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueant_big.png" group-title="KOMPILASI", Rock Ent
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_blueant_big.png" group-title="INDO", Rock Ent
 http://210.210.155.35/dr9445/h/h16/01.m3u8 
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="KOMPILASI", Rock Action
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="INDO", Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8    
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",CNBC 2
-http://tvlive.my.id:25461/mat/mat/24
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",TRANS 7 2
-http://tvlive.my.id:25461/mat/mat/12
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BANDUNG TV
-http://202.150.153.254/bandungtvWEBSITE.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Net TV 2
 http://210.210.155.35/qwr9ew/s/s08/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NET TV 3
-http://tvlive.my.id:25461/mat/mat/15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",THE INDONESIA CHANNEL
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",SMTV
-http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BERITA SATU 2
-http://tvlive.my.id:25461/mat/mat/25
-
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="KOMPILASI", CGTN Documentary
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="INDO", CGTN Documentary
 http://210.210.155.37/qwr9ew/s/s20/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZhyVmTZ/animlplnt.png" group-title="KOMPILASI", Animal Planet
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157532
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",NATIONAL GEOGRAPHIC 2
-http://tvlive.my.id:25461/mat/mat/71
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",NAT GEO WILD
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017477
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",NAT GEO WILD
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/65
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",DISCOVERY CHANNEL
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016978
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",HGTV
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019542
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",DISCOVERY ASIA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019522
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",INWILD
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628017400
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",INWILD 2
-http://tvlive.my.id:25461/mat/mat/72
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",BBC EARTH
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019560
-
-#EXTINF:-1 tvg-id="MadaniTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/C7jNCeZ.png" group-title="LOKAL",Madani TV (720p)
-https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",HISTORY
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019524
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",WILD
-https://m3u-editor.com/serve/7bb8aa60-0443-11ed-961b-81910f7786d8/598046407
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MENTARITV
-https://geocities.ws/ariev7xx/mentari.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",MAX2U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",MAX2U
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",Metro TV 2
-http://tvlive.my.id:25461/mat/mat/9
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",SINEMA INDONESIA OK
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016933
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",JTV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",K-DRAMA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016934
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",TVS HI TOPS
-https://rpn1.bozztv.com/36bay2/gusa-hitops/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",VIZIO
-https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",CITRA DANGDUT
-https://bit.ly/3uT3z0m
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",FAMILY SINGING
-http://tvlive.my.id:25461/mat/mat/106
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",ASTRO RIA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019461
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ASTRO WARNA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019460
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ASTRO AOD
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019458
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",BOO
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019466
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",ASTRO CERIA
-https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628019530
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",AMERICAN HOROR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",AMERICAN HOROR
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",Discovery
-http://203.77.246.50:5000/udp/239.1.2.134:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",NATIONAL GEOGRAFIC
-http://tvlive.my.id:25461/mat/mat/71
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",Animal Planet
-http://203.77.246.50:5000/udp/239.1.2.136:5000
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOKUMENTER",WILD
-https://nonton.site:8443/live/balubaid2/Erlangga2/97.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",1MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",1MUSIC
 http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",ROCK ALTERNATIVE
-https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",GREATEST HITS
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIK",HITS LIST OK
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
@@ -742,16 +405,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://ia903105.us.archive.org/14/items/CaliforniaMusicChannel/california%20music%20channel.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="KOMPILASI", Kix
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="INDO", Kix
 http://210.210.155.35:80/dr9445/h/h07/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MY CINEMA EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",MY CINEMA EUROPE
 http://rr.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MY CINEMA
 http://rr.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MY CINEMA ASIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",MY CINEMA ASIA
 http://rr.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY FAMILY CHANNEL
