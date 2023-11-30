@@ -55,7 +55,7 @@ http://210.210.155.35:80/uq2663/h/h240/index.m3u8
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", HITS MOVIE
-http://rr1.dens.tv/h/h37/index.m3u8
+http://210.210.155.35:80/uq2663/h/h206/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", CELESTIAL MOVIES
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
@@ -341,10 +341,10 @@ http://rr.dens.tv/h/h08/index2.m3u8
 http://rr.dens.tv/h/h09/index2.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",HITS 
-http://rr1.dens.tv/h/h37/index.m3u8
+http://210.210.155.35:80/uq2663/h/h206/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",HITS MOVIE
-http://rr1.dens.tv/h/h38/index.m3u8
+http://210.210.155.35:80/uq2663/h/h206/index.m3u8
 
 #EXTINF:-1 group-title="KOMPILASI",NICKELODEON
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/38 |User-Agent=Lavf/56.15.102
@@ -635,7 +635,7 @@ http://122.248.43.138:1935/ch18/myStream/live.m3u8
 http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/165087?token=ShUNAEFcElxEW1IAXw9TVFlRAQBSVgMKAgYABlVWUwcHUVJUVwMFV1caGEZKTREDAFhpWAUVDwgABFNaAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAVVNWHRUVCFYWCkRVCAZSCBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggLUlZDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsNW1BSF0s=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Hits Movies
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf 
+http://210.210.155.35:80/uq2663/h/h206/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Celestial Movie
 http://210.210.155.35:80/dr9445/h/h14/01.m3u8
