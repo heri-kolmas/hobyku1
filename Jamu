@@ -91,25 +91,31 @@ http://210.210.155.35/session/e3bf680e-b2d5-11ed-99fb-c81f66f89318/dr9445/h/h24/
 http://rr2.dens.tv/s/s11/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", KOMPAS TV
-https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU",KOMPAS 2
+http://103.166.27.2:8112/play/a019/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", METRO TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", RTV
 http://210.210.155.35/session/08d61af2-b2d6-11ed-99fb-c81f66f89318/dr9445/h/h10/index1.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", TVONE
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf
+http://103.166.27.2:8112/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", MENTARI TV
+http://103.166.27.2:8112/play/a018/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", ELSHINTA
 http://rr2.dens.tv/s/s10/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", INDOSIAR
-http://rr2.dens.tv/s/s04/index.m3u8
+http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", INDOSIAR 2
-http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", AXN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
@@ -118,16 +124,19 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&ex
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", MOJI TV
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+http://103.166.27.2:8112/play/a017/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", NET-TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", ANTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
+http://103.166.27.2:8112/play/a01g/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", SCTV
-http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU",SCTV HD
+http://103.166.27.2:8112/play/a015/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="INDO",Bein Premium 1 
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94496&extension=ts&play_token=TQ6cftyhX8
@@ -225,6 +234,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1  tvg-logo=" " group-title="INDO",CNBC RIE
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
+#EXTINF:-1  tvg-logo=" " group-title="INDO",JTV
+http://103.166.27.2:8112/play/a01s/index.m3u8
+
+#EXTINF:-1  tvg-logo=" " group-title="INDO",LAGU TV
+http://103.166.27.2:8112/play/a01u/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png" group-title="KOMPILASI", Usee Photo(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 
@@ -237,13 +252,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/magnatv.png" group-title="KOMPILASI",Magna TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="KOMPILASI",MAXstream Music(telkom)
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/.png" group-title="INDO",MAXstream Music(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="KOMPILASI", JTV(telkom)
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png" group-title="INDO", JTV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="KOMPILASI", UseePrime(telkom)
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png" group-title="INDO", UseePrime(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="KOMPILASI",JAK TV(telkom)
@@ -255,7 +270,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png" group-title="INDO", MTA TV(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",Usee Prime(telkom)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="INDO",Usee Prime(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KOMPILASI",The Indonesia Channel(telkom)
