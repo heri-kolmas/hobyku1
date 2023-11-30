@@ -1,7 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", INFOTAINMENT
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683126&extension=ts&play_token=GVZS088tcf
+
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", SIMPANG5 TV
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", MNCTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", GTV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", RCTI
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
@@ -22,10 +34,10 @@ http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 http://210.210.155.35/session/85350a9a-b2c7-11ed-b03c-b82a72d63267/qwr9ew/s/s28/index10.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", THRILL
-http://210.210.155.35/session/a60fd144-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s34/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", CINEMA WORLD
-http://rr1.dens.tv/h/h04/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", HITS MOVIE
 http://rr1.dens.tv/h/h37/index.m3u8
@@ -34,10 +46,10 @@ http://rr1.dens.tv/h/h37/index.m3u8
 http://210.210.155.35/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", CCM
-http://210.210.155.35/session/76ed490a-b2d3-11ed-991d-c81f66f89318/qwr9ew/s/s31/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683110&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", TVN MOVIES
-http://210.210.155.35/session/598ab8d4-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h21/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683149&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", MY KIDZ
 http://210.210.155.35/session/d307cd88-b2d2-11ed-a06a-c81f66f89318/x6bnqe/h/h191/index.m3u8
@@ -58,10 +70,10 @@ https://tvmu.siar.us/tvmu/live/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1956697368_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", TRANS7 HD
-http://mpwtv.my.id/vidioye/734-trans7.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", MAGNA CHANNEL
 http://210.210.155.35/session/e3bf680e-b2d5-11ed-99fb-c81f66f89318/dr9445/h/h24/index.m3u8
@@ -70,16 +82,16 @@ http://210.210.155.35/session/e3bf680e-b2d5-11ed-99fb-c81f66f89318/dr9445/h/h24/
 http://rr2.dens.tv/s/s11/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", KOMPAS TV
-http://rr2.dens.tv/s/s104/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", METRO TV
-http://rr.dens.tv/h/h12/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", RTV
 http://210.210.155.35/session/08d61af2-b2d6-11ed-99fb-c81f66f89318/dr9445/h/h10/index1.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", TVONE
-http://210.210.155.35/session/080fd6c6-44b8-11ed-b03c-b82a72d63267/qwr9ew/s/s105/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", ELSHINTA
 http://rr2.dens.tv/s/s10/index.m3u8
@@ -90,6 +102,9 @@ http://rr2.dens.tv/s/s04/index.m3u8
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", INDOSIAR 2
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
+#EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", AXN
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
+
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
@@ -97,10 +112,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", NET-TV
-http://210.210.155.35/qwr9ew/s/s08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", ANTV
-http://210.210.155.35/qwr9ew/s/s07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", SCTV
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
@@ -253,7 +268,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d
 https://tinyurl.com/AMFVSS
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Paramount Movie Channel
-https://bit.ly/3QD0uKW
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="KOMPILASI", Just For Laughs
 https://bit.ly/3yhvTLT
@@ -322,7 +337,7 @@ https://bit.ly/3qAyqfs
 https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/286 |User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 group-title="KOMPILASI",CCM
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/5
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683110&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="KOMPILASI" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", 24 Hour Free Movies
 https://bit.ly/3dHN7dQ
@@ -343,7 +358,7 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",THRILL
-http://rr2.dens.tv/s/s34/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",ADI-TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
@@ -406,19 +421,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kix_big.png" group-title="INDO", Kix
-http://210.210.155.35:80/dr9445/h/h07/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683134&extension=ts&play_token=GVZS088tcf 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",MY CINEMA EUROPE
-http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",CINEMA KIDS
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",MY CINEMA
-http://rr.dens.tv/h/h192/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683152&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDO",MY CINEMA ASIA
-http://rr.dens.tv/h/h193/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683151&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",MY FAMILY CHANNEL
-http://rr.dens.tv/h/h194/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683150&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LOKAL",NEW KID TV (KOREA)
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
@@ -427,10 +442,16 @@ https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ZOOMOO
-https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",DreamWorks
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",Nickelodeon
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT",ZOOMOO 2
-http://tvlive.my.id:25461/mat/mat/68
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",TV GELUT
 http://tvlive.my.id:25461/mat/mat/66
@@ -499,7 +520,7 @@ https://contv-localnow.cinedigm.com/playlist.m3u8
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CELESTIAL MOVIES 2
-http://210.210.155.37/dr9445/h/h14/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
@@ -511,7 +532,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 http://rr.dens.tv/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CINEMA WORLD
-http://rr1.dens.tv/h/h04/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LUAR NAGREG",AFN
 https://m3u-editor.com/serve/2c5d2b00-2809-11ed-99c7-cff94f93f316/628016980
@@ -529,10 +550,10 @@ http://rr.dens.tv/h/h19/index10.m3u8
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-id="FILM" tvg-name="CelestialMovies.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/cm.jpg", Celestial Movies
-http://playlist.urfan.web.id/dr9445/h/h14/02.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILM",CELESTIAL MOVIES 2
-http://tvlive.my.id:25461/mat/mat/50
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BEBENYIT"Aniplus
 http://rr1.dens.tv/h/h02/index10.m3u8
@@ -553,25 +574,25 @@ http://122.248.43.138:1935/ch18/myStream/live.m3u8
 http://188.241.218.174:8070/smumtazkhan/JXWYwkWb42QyLn8A/165087?token=ShUNAEFcElxEW1IAXw9TVFlRAQBSVgMKAgYABlVWUwcHUVJUVwMFV1caGEZKTREDAFhpWAUVDwgABFNaAE5DFkJSFz5bUBJcRAkGUgwbT0QVXFtUQw0EDwMJVlIAVVNWHRUVCFYWCkRVCAZSCBtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggLUlZDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdQEBgSCwdAawdWVw0DAkFfXg9EFwMUCVNSFU5DDl5ZDBVdRm8WD1wWXhsNW1BSF0s=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Hits Movies
-http://rr1.dens.tv/h/h37/index.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Celestial Movie
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee" tvg-id="zbioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="FILM", ZEE Bioskop 
-http://rr2.dens.tv/s/s32/01.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683155&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="KOMPILASI", Rock Action
 http://210.210.155.35/dr9445/h/h15/01.m3u8    
 
 #EXTINF:-1 group-title="KOMPILASI",CCM 
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683110&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",Rock Ent HD
 http://203.77.246.50:5000/udp/239.1.2.220:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KOMPILASI",TVN
-http://45.126.83.51/dr9445/h/h20/01.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683149&extension=ts&play_token=GVZS088tcf 
 
 
 _____________ RADIO____________
@@ -871,7 +892,10 @@ http://rr3.dens.tv/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrj
 http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", Animax
-http://rr1.dens.tv/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", KIDS TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BEBENYIT" tvg-logo="", ANIPLUS
 http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
