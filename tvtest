@@ -2,6 +2,30 @@
 
 ============== new list tv ============
 
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",NIKELODEON
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAgflXFkIFWHtbaHm9GjKfE
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",NICK JR (IDN)
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHu1TfDnEidMxkipcvxfz3o
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",CARTOON NETWORK (IDN)
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRH4Us3fV-q8swbJON4HNbSw
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",MENTARI TV
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRBEeZvrbBs0ARQIJ40MIfc8
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",INEWS TV
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRK7TYHgJJJMxvtTj2D6wBig
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",MNC TV
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAWupeuMpiAxV8CQfbl9Spc
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",GLOBAL TV
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRHsm5P8VUU-i_CK2hr4xR78
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",RCTI
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGuWXDs2_1WdHQqUZZ5fr6Q
+
 #EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",HBO HITS
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPD8Kg7knoHj12XIsIFdueY
 
@@ -44,6 +68,8 @@ http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKTSqsEvf4kuhY8aMAI3fJ
 #EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",PRAMBORS
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRC021iutekdXIWKAAzEQzD4
 
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",WARNER TV
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzREgINWVzorVPNLsPeyK6sf4
 
 ===========================DENS TV==========================
 
