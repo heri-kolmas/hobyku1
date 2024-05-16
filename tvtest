@@ -1,5 +1,50 @@
 #EXTM3U
 
+============== new list tv ============
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",HBO HITS
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRPD8Kg7knoHj12XIsIFdueY
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",FLIK
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMlhpu8_3hnzXS_8TOocETE
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",BIOSKOP INDONESIA
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRM0HoDC_BqEKlBq3T-2s61c
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",CITRA DRAMA
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMiuV8Hg3dZyB-DPG4L1kCU
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",IMC
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRDSESsSFQRMslx3nEMZR4xE
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",AXN
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKZYrS9lYN539-6M5Vr74cU
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",HBO
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRMWgRU0fA_lUnNVtFfKchSs
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",HBO FAMILY
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRGlWEyMOAAo79nSRn6DcNKM
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",HBO SIGNATURE
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRO31yweI9drEyVsjjMrUtUk
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",GALAXY PREMIUM
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAQasogVlm9Jv86S2kRjzNI
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",NAT GEO WILD
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRFDoZcDjxpzmLEqnLIGuFY0
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",DUNIA LAIN
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRD_XezbX7675PsvSSTDlX0c
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",E KONSER
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRKTSqsEvf4kuhY8aMAI3fJU
+
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",PRAMBORS
+http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRC021iutekdXIWKAAzEQzD4
+
+
 ===========================DENS TV==========================
 
 #EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR SD 
