@@ -2,14 +2,14 @@
 
 ============== new list tv ============
 
-#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",ANIPLUS
-http://xtv.ooo:8080/live/RiyazMPT/433833/350891.ts
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",INSERT
+http://202.150.161.117:8000/play/!nsert
 
 #EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",BIOSKOPEUH INDONESIA
-http://xtv.ooo:8080/live/RiyazMPT/433833/350906.ts
+http://202.150.161.117:8000/play/BioskopIndonesia
 
-#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",CARTOON NETWORK (IDN)
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRH4Us3fV-q8swbJON4HNbSw
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",MUSIK INDONESIA
+http://202.150.161.117:8000/play/MusikIndo
 
 #EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",MENTARI TV
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRBEeZvrbBs0ARQIJ40MIfc8
