@@ -11,11 +11,11 @@ http://202.150.161.117:8000/play/BioskopIndonesia
 #EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",MUSIK INDONESIA
 http://202.150.161.117:8000/play/MusikIndo
 
-#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",MENTARI TV
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRBEeZvrbBs0ARQIJ40MIfc8
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",KHAZANAH
+http://202.150.161.117:8000/play/Khazanah
 
-#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",INEWS TV
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRK7TYHgJJJMxvtTj2D6wBig
+#EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",DUNIA ANAKAN
+http://202.150.161.117:8000/play/DuniaAnak
 
 #EXTINF:0 tvg-id="outdoor" group-title="NEW-LIST",MNC TV
 http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRAWupeuMpiAxV8CQfbl9Spc
